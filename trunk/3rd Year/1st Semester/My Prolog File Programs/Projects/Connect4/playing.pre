@@ -1,0 +1,15 @@
+/*****************************************************************************
+
+		Copyright (c) My Company
+
+ Project:  CONNECT1
+ FileName: playing.PRE
+ Purpose: Predicate definitions for PLAYING.PRO
+ Written by: Visual Prolog
+ Comments:
+******************************************************************************/
+
+%BEGIN_DECL, System generated global predicates
+GLOBAL PREDICATES
+  win_playing_Create(WINDOW Parent) - (i)
+%END_DECL
