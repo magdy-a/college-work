@@ -1,0 +1,12 @@
+/*****************************************************************************
+
+		Copyright (c) My Company
+
+ Project:  CONNECT1
+ FileName: NewGame.DOM
+ Purpose: Domain definitions for NEWGAME.PRO
+ Written by: Visual Prolog
+ Comments:
+******************************************************************************/
+global database-dum
+	cursor(integer,integer).

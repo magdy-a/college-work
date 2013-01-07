@@ -1,0 +1,130 @@
+/*****************************************************************************
+
+		Copyright (c) My Company
+
+ Project:  CONNECT1
+ FileName: playing.PRE
+ Purpose: Predicate definitions for PLAYING.PRO
+ Written by: Visual Prolog
+ Comments:
+******************************************************************************/
+
+%BEGIN_DECL, System generated global predicates
+GLOBAL PREDICATES
+  win_playing_Create(WINDOW Parent) - (i)
+  
+%END_DECL
+/*
+	alphaBeta(CBoard,_,_,Player,0,Return,CBoard):-%this play will block Opponent win
+		opponentPlayer(Player,Opponent),
+		setSquareValue(CBoard,Opponent,NewBoard),
+		
+		extractCBoard(CBoard,_,Square),
+		didWin(cbrd(NewBoard,Square),Opponent),
+		playerValue(Player,Value),
+		Return = Value * 900,	!.
+		
+	alphaBeta(CBoard,_,_,Player,0,Return,CBoard):-%this play will make the opponent block my win in upper square which is bad
+		extractCBoard(CBoard,Board,Square),
+		adj(Square,up,NextSquare),
+		setSquareValue(cbrd(Board,NextSquare),ex,NewBoard),
+		didWin(cbrd(NewBoard,NextSquare),ex),
+		
+		opponentPlayer(Player,Opponent),
+		playerValue(Opponent,OpponentValue),
+		Return = OpponentValue * 500,	!.
+		
+	alphaBeta(CBoard,_,_,Player,0,Return,CBoard):-%this play will be good next time for Opponent
+		extractCBoard(CBoard,Board,Square),
+		opponentPlayer(Player,Opponent),
+		
+		adj(Square,up,SquareAbove),
+		setSquareValue(cbrd(Board,SquareAbove),Opponent,NewBoard),
+		didWin(cbrd(NewBoard,SquareAbove),Opponent),
+		
+		playerValue(Opponent,OpponentValue),
+		Return = OpponentValue * 900,	!.
+		
+*/
+
+
+/*
+%			Evaluate Node ( LastPlay )
+	
+	evaluationFunction(CBoard,Player,Return):-%me did Win ... return 1000 * player's Value
+		didWin(CBoard,Player),
+		playerValue(Player,Value),
+		Return = Value * 1000,	!.
+		
+	evaluationFunction(CBoard,Player,Return):-%this play will block Opponent win
+		extractCBoard(CBoard,_,Square),
+		opponentPlayer(Player,Opponent),
+		
+		setSquareValue(CBoard,Opponent,NewBoard),
+		didWin(cbrd(NewBoard,Square),Opponent),
+		
+		playerValue(Player,Value),
+		Return = Value * 900,	!.
+		
+	evaluationFunction(CBoard,Player,Return):-%this play will be good next time for Opponent
+		extractCBoard(CBoard,Board,Square),
+		opponentPlayer(Player,Opponent),
+		
+		adj(Square,up,SquareAbove),
+		setSquareValue(cbrd(Board,SquareAbove),Opponent,NewBoard),
+		didWin(cbrd(NewBoard,SquareAbove),Opponent),
+		
+		playerValue(Opponent,OpponentValue),
+		Return = OpponentValue * 900,	!.
+		
+	evaluationFunction(CBoard,Player,Return):-%this play will make the opnent block my win which is bad
+		extractCBoard(CBoard,Board,Square),
+		opponentPlayer(Player,Opponent),
+		
+		adj(Square,up,NextSquare),
+		setSquareValue(cbrd(Board,NextSquare),Player,NewBoard),
+		didWin(cbrd(NewBoard,NextSquare),Opponent),
+		
+		playerValue(Opponent,OpponentValue),
+		Return = OpponentValue * 500,	!.
+
+	evaluationFunction(CBoard,Player,Return):-%evaluate LastPlay in Board
+		extractCBoard(CBoard,_,Square),
+		opponentPlayer(Player,Opponent),
+		
+		winningLines(CBoard,Player,WinningLines),
+		piecesInLine(CBoard,Player,PiecesInLine),
+		
+		setSquareValue(CBoard,oh,NewBoard),
+		winningLines(cbrd(NewBoard,Square),Opponent,WinningLines2),
+		piecesInLine(cbrd(NewBoard,Square),Opponent,PiecesInLine2),
+		
+		
+		PlayerVal = WinningLines + PiecesInLine,
+		OpponentVal = WinningLines2 + PiecesInLine2,
+		
+		PMinusO = PlayerVal - OpponentVal,
+		OMinusP = OpponentVal - PlayerVal,
+		
+		AbsPMinusO = abs(PMinusO),
+		AbsOMinusP = abs(OMinusP),
+		
+		max(AbsPMinusO,AbsOMinusP,Max),
+		
+		playerValue(Player,Value),
+		
+		Return = Value * Max,	!.
+		
+%			End of Evaluate Node ( LastPlay )
+*/
+
+/*
+
+brd([" "," "," "," "," "," "," ",
+		        " "," "," "," "," "," "," ",
+     		        " "," "," "," "," "," "," ",
+		        " "," "," "," "," "," "," ",
+		        " "," "," "," "," "," "," ",
+		        " "," "," "," "," "," "," "])
+		        
+*/
