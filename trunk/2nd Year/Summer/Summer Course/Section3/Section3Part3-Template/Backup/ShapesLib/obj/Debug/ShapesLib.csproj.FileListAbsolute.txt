@@ -1,0 +1,5 @@
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\ShapesLib\bin\Debug\ShapesLib.dll
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\ShapesLib\bin\Debug\ShapesLib.pdb
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\ShapesLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\ShapesLib\obj\Debug\ShapesLib.dll
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\ShapesLib\obj\Debug\ShapesLib.pdb

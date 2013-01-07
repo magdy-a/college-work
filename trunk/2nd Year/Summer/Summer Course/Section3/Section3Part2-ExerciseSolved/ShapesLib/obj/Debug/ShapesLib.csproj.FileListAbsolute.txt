@@ -1,0 +1,5 @@
+D:\DP Course\Section3\Section3Part2-ExerciseSolved\ShapesLib\bin\Debug\ShapesLib.dll
+D:\DP Course\Section3\Section3Part2-ExerciseSolved\ShapesLib\bin\Debug\ShapesLib.pdb
+D:\DP Course\Section3\Section3Part2-ExerciseSolved\ShapesLib\obj\Debug\ResolveAssemblyReference.cache
+D:\DP Course\Section3\Section3Part2-ExerciseSolved\ShapesLib\obj\Debug\ShapesLib.dll
+D:\DP Course\Section3\Section3Part2-ExerciseSolved\ShapesLib\obj\Debug\ShapesLib.pdb

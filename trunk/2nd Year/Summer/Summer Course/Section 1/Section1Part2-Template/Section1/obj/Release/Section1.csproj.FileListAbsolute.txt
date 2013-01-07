@@ -1,0 +1,8 @@
+E:\mahmoud\COLLEGE\teaching\Design Patterns\2009\LABS\Section 1\Section1Part1-Template\Section1\bin\Release\Section1.exe
+E:\mahmoud\COLLEGE\teaching\Design Patterns\2009\LABS\Section 1\Section1Part1-Template\Section1\bin\Release\Section1.pdb
+E:\mahmoud\COLLEGE\teaching\Design Patterns\2009\LABS\Section 1\Section1Part1-Template\Section1\obj\Release\ResolveAssemblyReference.cache
+E:\mahmoud\COLLEGE\teaching\Design Patterns\2009\LABS\Section 1\Section1Part1-Template\Section1\obj\Release\Section1.Form1.resources
+E:\mahmoud\COLLEGE\teaching\Design Patterns\2009\LABS\Section 1\Section1Part1-Template\Section1\obj\Release\Section1.Properties.Resources.resources
+E:\mahmoud\COLLEGE\teaching\Design Patterns\2009\LABS\Section 1\Section1Part1-Template\Section1\obj\Release\Section1.csproj.GenerateResource.Cache
+E:\mahmoud\COLLEGE\teaching\Design Patterns\2009\LABS\Section 1\Section1Part1-Template\Section1\obj\Release\Section1.exe
+E:\mahmoud\COLLEGE\teaching\Design Patterns\2009\LABS\Section 1\Section1Part1-Template\Section1\obj\Release\Section1.pdb

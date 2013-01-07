@@ -1,0 +1,5 @@
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\ShapesLib\bin\Debug\ShapesLib.dll
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\ShapesLib\bin\Debug\ShapesLib.pdb
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\ShapesLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\ShapesLib\obj\Debug\ShapesLib.dll
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\ShapesLib\obj\Debug\ShapesLib.pdb

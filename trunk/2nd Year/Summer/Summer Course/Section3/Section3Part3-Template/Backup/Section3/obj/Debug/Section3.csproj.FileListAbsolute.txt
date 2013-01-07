@@ -1,0 +1,11 @@
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Section3\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Section3\obj\Debug\Section3.Form1.resources
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Section3\obj\Debug\Section3.Properties.Resources.resources
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Section3\obj\Debug\Section3.ScaleForm.resources
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Section3\obj\Debug\Section3.csproj.GenerateResource.Cache
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Section3\bin\Debug\Section3.exe
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Section3\bin\Debug\Section3.pdb
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Section3\bin\Debug\ShapesLib.dll
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Section3\bin\Debug\ShapesLib.pdb
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Section3\obj\Debug\Section3.exe
+E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Section3\obj\Debug\Section3.pdb

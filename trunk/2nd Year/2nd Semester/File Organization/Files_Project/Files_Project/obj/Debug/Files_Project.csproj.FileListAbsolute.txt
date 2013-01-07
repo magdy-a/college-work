@@ -1,0 +1,16 @@
+C:\Users\Goha\Documents\Visual Studio 2008\Projects\Files_Project\Files_Project\bin\Debug\Files_Project.exe
+C:\Users\Goha\Documents\Visual Studio 2008\Projects\Files_Project\Files_Project\bin\Debug\Files_Project.pdb
+C:\Users\Goha\Documents\Visual Studio 2008\Projects\Files_Project\Files_Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Goha\Documents\Visual Studio 2008\Projects\Files_Project\Files_Project\obj\Debug\Files_Project.Properties.Resources.resources
+C:\Users\Goha\Documents\Visual Studio 2008\Projects\Files_Project\Files_Project\obj\Debug\Files_Project.csproj.GenerateResource.Cache
+C:\Users\Goha\Documents\Visual Studio 2008\Projects\Files_Project\Files_Project\obj\Debug\Files_Project.exe
+C:\Users\Goha\Documents\Visual Studio 2008\Projects\Files_Project\Files_Project\obj\Debug\Files_Project.pdb
+C:\Users\Goha\Documents\Visual Studio 2008\Projects\Files_Project\Files_Project\obj\Debug\Files_Project.mainForm.resources
+D:\Ahmed\College\Second Year _ Second Semester\File Organization\Assignment\Last Edition\Files_Project\Files_Project\obj\Debug\Files_Project.exe
+D:\Ahmed\College\Second Year _ Second Semester\File Organization\Assignment\Last Edition\Files_Project\Files_Project\obj\Debug\Files_Project.pdb
+D:\Ahmed\College\Second Year _ Second Semester\File Organization\Assignment\Last Edition\Files_Project\Files_Project\bin\Debug\Files_Project.exe
+D:\Ahmed\College\Second Year _ Second Semester\File Organization\Assignment\Last Edition\Files_Project\Files_Project\bin\Debug\Files_Project.pdb
+D:\Ahmed\College\Second Year _ Second Semester\File Organization\Assignment\Last Edition\Files_Project\Files_Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Ahmed\College\Second Year _ Second Semester\File Organization\Assignment\Last Edition\Files_Project\Files_Project\obj\Debug\Files_Project.mainForm.resources
+D:\Ahmed\College\Second Year _ Second Semester\File Organization\Assignment\Last Edition\Files_Project\Files_Project\obj\Debug\Files_Project.Properties.Resources.resources
+D:\Ahmed\College\Second Year _ Second Semester\File Organization\Assignment\Last Edition\Files_Project\Files_Project\obj\Debug\Files_Project.csproj.GenerateResource.Cache
