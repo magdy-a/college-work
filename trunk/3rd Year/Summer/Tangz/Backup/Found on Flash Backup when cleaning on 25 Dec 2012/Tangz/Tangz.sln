@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tangz", "Tangz\Tangz.csproj", "{AF3F57B4-152A-4F3E-8213-DE21F3BC310A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF3F57B4-152A-4F3E-8213-DE21F3BC310A}.Debug|x86.ActiveCfg = Debug|x86
+		{AF3F57B4-152A-4F3E-8213-DE21F3BC310A}.Debug|x86.Build.0 = Debug|x86
+		{AF3F57B4-152A-4F3E-8213-DE21F3BC310A}.Release|x86.ActiveCfg = Release|x86
+		{AF3F57B4-152A-4F3E-8213-DE21F3BC310A}.Release|x86.Build.0 = Release|x86
+		{40A3CA80-C02A-4882-8899-3E940516B031}.Debug|x86.ActiveCfg = Debug|x86
+		{40A3CA80-C02A-4882-8899-3E940516B031}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

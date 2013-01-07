@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Tangz">
+</Property><Property Name="Solution File" Value="C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Tangz.sln">
+</Property><Property Name="User Options File" Value="C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Tangz.suo">
+</Property><Property Name="Date" Value="Thursday, March 31, 2011">
+</Property><Property Name="Time" Value="21:47 PM">
+</Property><Property Name="Solution" Value="Tangz">
+</Property><Property Name="Solution File" Value="C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Tangz.sln">
+</Property><Property Name="Date" Value="Thursday, March 31, 2011">
+</Property><Property Name="Time" Value="21:47:34 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Tangz.sln" Description="File successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Tangz.suo" Description="File successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz.suo">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\Tangz.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\Tangz.csproj" Description="Project file successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz\Tangz.csproj">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\Tangz.csproj.user" Description="Project user file successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz\Tangz.csproj.user">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\Bullet.cs" Description="File successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz\Bullet.cs">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\Directions.cs" Description="File successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz\Directions.cs">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\EnemyTank.cs" Description="File successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz\EnemyTank.cs">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\MovingObject.cs" Description="File successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz\MovingObject.cs">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\PlayerTank.cs" Description="File successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz\PlayerTank.cs">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\Program.cs" Description="File successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz\Program.cs">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\Game1.cs" Description="File successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz\Game1.cs">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\Tank.cs" Description="File successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz\Tank.cs">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\ClassDiagram1.cd" Description="File successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\Game.ico" Description="File successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz\Game.ico">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\GameThumbnail.png" Description="File successfully backed up as C:\Ahmad\Collection\Programming Backup\My Projects\Tangz\Backup\Tangz\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\Tangz.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Tangz" Source="Tangz\Tangz.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Tangz.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Tangz.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\Tangz.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Tangz" Source="Tangz\Tangz.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Bullet.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Tank.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="TangzContent" Source="Tangz\Content\TangzContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

@@ -1,0 +1,18 @@
+c:\users\magdy\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\magdy\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Properties.Resources.resources
+c:\users\magdy\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\magdy\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\magdy\documents\visual studio 2010\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+c:\users\magdy\documents\visual studio 2010\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+c:\users\magdy\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\MapEditor.exe
+c:\users\magdy\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\MapEditor.pdb
+c:\users\magdy\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\MapEditor.MapEditor.resources
+C:\Ahmad\College\Computer Graphics\Tomes of the Elders\Game Backup\Map Editor\5 Sample to MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.exe
+C:\Ahmad\College\Computer Graphics\Tomes of the Elders\Game Backup\Map Editor\5 Sample to MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.pdb
+C:\Ahmad\College\Computer Graphics\Tomes of the Elders\Game Backup\Map Editor\5 Sample to MapEditor\MapEditor\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Ahmad\College\Computer Graphics\Tomes of the Elders\Game Backup\Map Editor\5 Sample to MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.MapEditor.resources
+C:\Ahmad\College\Computer Graphics\Tomes of the Elders\Game Backup\Map Editor\5 Sample to MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Properties.Resources.resources
+C:\Ahmad\College\Computer Graphics\Tomes of the Elders\Game Backup\Map Editor\5 Sample to MapEditor\MapEditor\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Ahmad\College\Computer Graphics\Tomes of the Elders\Game Backup\Map Editor\5 Sample to MapEditor\MapEditor\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Ahmad\College\Computer Graphics\Tomes of the Elders\Game Backup\Map Editor\5 Sample to MapEditor\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+C:\Ahmad\College\Computer Graphics\Tomes of the Elders\Game Backup\Map Editor\5 Sample to MapEditor\MapEditor\MapEditor\bin\Debug\MapEditor.pdb

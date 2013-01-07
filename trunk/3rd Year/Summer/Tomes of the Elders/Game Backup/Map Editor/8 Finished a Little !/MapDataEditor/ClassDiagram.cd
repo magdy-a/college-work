@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataEditor.AddObjectForm" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIADAEAChUAiAiIAGBAAACwAABARAAICBAAAAQSMQ=</HashCode>
+      <FileName>AddObjectForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataEditor.AddSpritesForm" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAAAEBECAAAJAAAACAAAEGoCAAAEAACCBAAABQCAQ=</HashCode>
+      <FileName>AddSpritesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataEditor.DataEditorForm" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAYAAAACAAAJgIAACAAAgCCCAMAAgIAAAAAIgAAAQ=</HashCode>
+      <FileName>DataEditorForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataEditor.SpriteSheet" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAgEABEIBAAEgCAAAICAAACCQAAAAiAgAAAAA=</HashCode>
+      <FileName>SpriteSheet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataEditor.Data.ParentDataObject" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABgAAAAAAAAARAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\DataObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataEditor.Data.Ground" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQAAAAAAAAAAAAAAAAAABAAAAAAAAABABAAAAAAAA=</HashCode>
+      <FileName>Data\DataObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataEditor.Data.Item" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\DataObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataEditor.Data.Wall" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Data\DataObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DataEditor.AdditionType" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAEAA=</HashCode>
+      <FileName>AddObjectForm.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DataEditor.Data.ParentTypes" Collapsed="true">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAEAAAAAAAIA=</HashCode>
+      <FileName>Data\Types.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DataEditor.Data.TerrainTypes" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAABAgAAAACAAAAAAAAAAEAAACAAAAAAACAAAAA=</HashCode>
+      <FileName>Data\Types.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DataEditor.Data.StaticItemsTypes" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAABAAAAIAAAAAAEACAQACQAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Data\Types.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DataEditor.Data.BrushesTypes" Collapsed="true">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Types.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

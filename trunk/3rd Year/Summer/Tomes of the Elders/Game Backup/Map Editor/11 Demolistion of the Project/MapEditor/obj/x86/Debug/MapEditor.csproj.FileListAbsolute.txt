@@ -1,0 +1,12 @@
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapEditor\obj\x86\Debug\MapEditor.Properties.Resources.resources
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapEditor\bin\Debug\MapEditor.exe
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapEditor\bin\Debug\MapEditor.pdb
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapEditor\bin\Debug\MapDataEditor.exe
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapEditor\bin\Debug\MapDataEditor.pdb
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapEditor\obj\x86\Debug\MapEditor.exe
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapEditor\obj\x86\Debug\MapEditor.pdb
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapEditor\obj\x86\Debug\MapEditor.MapEditorForm.resources
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapEditor\obj\x86\Debug\MapEditor.CreateMap.resources

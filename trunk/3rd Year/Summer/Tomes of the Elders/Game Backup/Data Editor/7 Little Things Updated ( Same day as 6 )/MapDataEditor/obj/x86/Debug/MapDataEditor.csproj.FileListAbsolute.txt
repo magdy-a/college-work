@@ -1,0 +1,22 @@
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\bin\Debug\MapDataEditor.exe
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\bin\Debug\MapDataEditor.pdb
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\MapDataEditor.Properties.Resources.resources
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\MapDataEditor.exe
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\MapDataEditor.pdb
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\MapDataEditor.MainForm.resources
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\MapDataEditor.AddItemForm.resources
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\MapDataEditor.AddSpritesForm.resources
+C:\MapDataEditor\obj\x86\Debug\MapDataEditor.exe
+C:\MapDataEditor\obj\x86\Debug\MapDataEditor.pdb
+C:\MapDataEditor\bin\Debug\MapDataEditor.exe
+C:\MapDataEditor\bin\Debug\MapDataEditor.pdb
+C:\MapDataEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MapDataEditor\obj\x86\Debug\MapDataEditor.AddItemForm.resources
+C:\MapDataEditor\obj\x86\Debug\MapDataEditor.AddSpritesForm.resources
+C:\MapDataEditor\obj\x86\Debug\MapDataEditor.MainForm.resources
+C:\MapDataEditor\obj\x86\Debug\MapDataEditor.Properties.Resources.resources
+C:\MapDataEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MapDataEditor\obj\x86\Debug\GenerateResource.write.1.tlog

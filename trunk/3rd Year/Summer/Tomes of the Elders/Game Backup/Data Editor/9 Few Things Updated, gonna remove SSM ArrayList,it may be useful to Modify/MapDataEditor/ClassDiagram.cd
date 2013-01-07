@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MapDataEditor.AddItemForm" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIADAEAChUAiAiIAGBAAACwAABARAAICBAAAAQSMQ=</HashCode>
+      <FileName>AddItemForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapDataEditor.AddSpritesForm" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAAAEBECAAAJAAAACAAAEGoCAAAEAACCBAAABQCAQ=</HashCode>
+      <FileName>AddSpritesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapDataEditor.MainForm" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAYAAAACACAJgIAACAAAgCCCAMAAgIAAAAAIAAAAQ=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapDataEditor.Project" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAgAACABABAAAAAACAgABIAAAAAAABAAIABAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapDataEditor.SpriteSheetMaker" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgEABEIBAAEgCAAAICAAACCAAAAAiAgAAAAA=</HashCode>
+      <FileName>SpriteSheetMaker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapDataEditor.Data.ParentDataObject" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABgAAAAAAAAARAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\DataObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapDataEditor.Data.Ground" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQAAAAAAAAAAAAAAAAAABAAAAAAAAABABAAAAAAAA=</HashCode>
+      <FileName>Data\DataObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapDataEditor.Data.Item" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\DataObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapDataEditor.Data.Wall" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Data\DataObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MapDataEditor.AdditionType" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAEAA=</HashCode>
+      <FileName>AddItemForm.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MapDataEditor.Data.ParentTypes" Collapsed="true">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAEAAAAAAAIA=</HashCode>
+      <FileName>Data\Types.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MapDataEditor.Data.TerrainTypes" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAABAgAAAACAAAAAAAAAAEAAACAAAAAAACAAAAA=</HashCode>
+      <FileName>Data\Types.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MapDataEditor.Data.StaticItemsTypes" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAABAAAAIAAAAAAEACAQACQAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Data\Types.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MapDataEditor.Data.BrushesTypes" Collapsed="true">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Types.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,11 @@
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapDataEditor\obj\x86\Debug\MapDataEditor.exe
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapDataEditor\obj\x86\Debug\MapDataEditor.pdb
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapDataEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapDataEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapDataEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapDataEditor\bin\Debug\MapDataEditor.exe
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapDataEditor\bin\Debug\MapDataEditor.pdb
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapDataEditor\obj\x86\Debug\DataEditor.AddObjectForm.resources
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapDataEditor\obj\x86\Debug\DataEditor.AddSpritesForm.resources
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapDataEditor\obj\x86\Debug\DataEditor.Properties.Resources.resources
+C:\Users\magdy\Documents\Visual Studio 2010\Projects\MapDataEditor\obj\x86\Debug\DataEditor.DataEditorForm.resources

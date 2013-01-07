@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomesOfTheElders", "TomesOfTheElders\TomesOfTheElders\TomesOfTheElders.csproj", "{296C4E3C-DE1E-4403-9EB4-2084E04A5EFF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TomesOfTheEldersContent", "TomesOfTheElders\TomesOfTheEldersContent\TomesOfTheEldersContent.contentproj", "{28F75317-5536-4B01-9ED9-B0CE0F9D7EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEditor", "MapEditor\MapEditor.csproj", "{50074319-D339-4A32-A749-328C34F8C03B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{296C4E3C-DE1E-4403-9EB4-2084E04A5EFF}.Debug|x86.ActiveCfg = Debug|x86
+		{296C4E3C-DE1E-4403-9EB4-2084E04A5EFF}.Debug|x86.Build.0 = Debug|x86
+		{296C4E3C-DE1E-4403-9EB4-2084E04A5EFF}.Release|x86.ActiveCfg = Release|x86
+		{296C4E3C-DE1E-4403-9EB4-2084E04A5EFF}.Release|x86.Build.0 = Release|x86
+		{28F75317-5536-4B01-9ED9-B0CE0F9D7EEE}.Debug|x86.ActiveCfg = Debug|x86
+		{28F75317-5536-4B01-9ED9-B0CE0F9D7EEE}.Release|x86.ActiveCfg = Release|x86
+		{50074319-D339-4A32-A749-328C34F8C03B}.Debug|x86.ActiveCfg = Debug|x86
+		{50074319-D339-4A32-A749-328C34F8C03B}.Debug|x86.Build.0 = Debug|x86
+		{50074319-D339-4A32-A749-328C34F8C03B}.Release|x86.ActiveCfg = Release|x86
+		{50074319-D339-4A32-A749-328C34F8C03B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
