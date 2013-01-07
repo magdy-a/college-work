@@ -1,0 +1,11 @@
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\bin\Debug\MapDataEditor.exe
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\bin\Debug\MapDataEditor.pdb
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\MapDataEditor.Properties.Resources.resources
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\MapDataEditor.exe
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\MapDataEditor.pdb
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\MapDataEditor.MainForm.resources
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\MapDataEditor.AddItemForm.resources
+C:\Users\ZooM\documents\visual studio 2010\Projects\TomesOfTheElders\MapDataEditor\obj\x86\Debug\MapDataEditor.AddSpritesForm.resources

@@ -1,0 +1,8 @@
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Tangz\Tangz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Tangz\Tangz\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Tangz\Tangz\bin\x86\Debug\Tangz.exe
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Tangz\Tangz\bin\x86\Debug\Tangz.pdb
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Tangz\Tangz\obj\x86\Debug\Tangz.exe
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Tangz\Tangz\obj\x86\Debug\Tangz.pdb
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Tangz\Tangz\bin\x86\Debug\Content\Images\Bullet.xnb
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Tangz\Tangz\bin\x86\Debug\Content\Images\Tank.xnb

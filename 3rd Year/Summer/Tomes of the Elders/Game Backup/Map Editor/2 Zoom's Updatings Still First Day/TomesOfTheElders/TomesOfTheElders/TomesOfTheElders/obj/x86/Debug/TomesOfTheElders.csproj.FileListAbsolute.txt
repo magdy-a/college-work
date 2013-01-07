@@ -1,0 +1,12 @@
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\TomesOfTheElders\TomesOfTheElders\bin\x86\Debug\TomesOfTheElders.exe
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\TomesOfTheElders\TomesOfTheElders\bin\x86\Debug\TomesOfTheElders.pdb
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\TomesOfTheElders\TomesOfTheElders\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\TomesOfTheElders\TomesOfTheElders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\TomesOfTheElders\TomesOfTheElders\obj\x86\Debug\TomesOfTheElders.exe
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\TomesOfTheElders\TomesOfTheElders\obj\x86\Debug\TomesOfTheElders.pdb
+C:\Ahmad\Collection\Learning\Visual Studio\XNA\BackUp Our Game\2 Zoom's Updatings Still First Day\TomesOfTheElders\TomesOfTheElders\TomesOfTheElders\bin\x86\Debug\TomesOfTheElders.exe
+C:\Ahmad\Collection\Learning\Visual Studio\XNA\BackUp Our Game\2 Zoom's Updatings Still First Day\TomesOfTheElders\TomesOfTheElders\TomesOfTheElders\bin\x86\Debug\TomesOfTheElders.pdb
+C:\Ahmad\Collection\Learning\Visual Studio\XNA\BackUp Our Game\2 Zoom's Updatings Still First Day\TomesOfTheElders\TomesOfTheElders\TomesOfTheElders\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Ahmad\Collection\Learning\Visual Studio\XNA\BackUp Our Game\2 Zoom's Updatings Still First Day\TomesOfTheElders\TomesOfTheElders\TomesOfTheElders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Ahmad\Collection\Learning\Visual Studio\XNA\BackUp Our Game\2 Zoom's Updatings Still First Day\TomesOfTheElders\TomesOfTheElders\TomesOfTheElders\obj\x86\Debug\TomesOfTheElders.exe
+C:\Ahmad\Collection\Learning\Visual Studio\XNA\BackUp Our Game\2 Zoom's Updatings Still First Day\TomesOfTheElders\TomesOfTheElders\TomesOfTheElders\obj\x86\Debug\TomesOfTheElders.pdb

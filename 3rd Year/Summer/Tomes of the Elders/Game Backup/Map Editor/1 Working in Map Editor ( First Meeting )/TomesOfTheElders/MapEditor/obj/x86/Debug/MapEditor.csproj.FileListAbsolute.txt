@@ -1,0 +1,11 @@
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\MapEditor\bin\Debug\MapEditor.exe
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\MapEditor\bin\Debug\MapEditor.pdb
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\MapEditor\obj\x86\Debug\MapEditor.MainForm.resources
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\MapEditor\obj\x86\Debug\MapEditor.Properties.Resources.resources
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\MapEditor\obj\x86\Debug\MapEditor.exe
+c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\MapEditor\obj\x86\Debug\MapEditor.pdb
+C:\Ahmad\Collection\Learning\Visual Studio\XNA\BackUp Our Game\1 Working in Map Editor ( First Meeting )\TomesOfTheElders\MapEditor\obj\x86\Debug\MapEditor.exe
+C:\Ahmad\Collection\Learning\Visual Studio\XNA\BackUp Our Game\1 Working in Map Editor ( First Meeting )\TomesOfTheElders\MapEditor\obj\x86\Debug\MapEditor.pdb

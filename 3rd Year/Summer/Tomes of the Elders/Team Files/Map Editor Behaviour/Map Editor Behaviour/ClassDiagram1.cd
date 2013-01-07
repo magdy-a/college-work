@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Brush Acting Cases :&#xD;&#xA;Ground&amp; SameTypeOfGround        ---&gt;(Draw)&#xD;&#xA;Ground &amp; AnotherType Of Ground ---&gt;(Place Eadges)&#xD;&#xA;Ground &amp; Wall                                    ---&gt;(Do Nothing)&#xD;&#xA;Ground &amp; Item                                    ---&gt;(Put Above)&#xD;&#xA;Wall       &amp; Wall                                    ---&gt; (Do Nothing)&#xD;&#xA;Wall       &amp; Item                                   ---&gt;(Item Hangable )&#xD;&#xA;">
+    <Position X="8.219" Y="0.5" Height="1.281" Width="3.502" />
+  </Comment>
+  <Class Name="Map_Editor_Behaviour.Brush">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAggAAAAAAAAQAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Brush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map_Editor_Behaviour.DymanicBrush">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAEAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GroundBrush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map_Editor_Behaviour.WallBrush">
+    <Position X="1.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WallBrush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map_Editor_Behaviour.StaticBrush">
+    <Position X="7.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ItemBrush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map_Editor_Behaviour.GroundBrush">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WallBrush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map_Editor_Behaviour.ItemBrush">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ItemBrush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Map_Editor_Behaviour.CornerAndEdgesPieces" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAIAAAACAABAAQCgAAAAQABAAAAAEAAAIAABAAA=</HashCode>
+      <FileName>CornerPieces.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
