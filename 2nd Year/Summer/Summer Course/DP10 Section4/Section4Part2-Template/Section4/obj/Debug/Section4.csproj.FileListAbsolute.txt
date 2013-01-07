@@ -1,0 +1,12 @@
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\Section4\obj\Debug\Section4.exe
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\Section4\obj\Debug\Section4.pdb
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\Section4\bin\Debug\Section4.exe
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\Section4\bin\Debug\Section4.pdb
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\Section4\bin\Debug\ShapesLib.dll
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\Section4\bin\Debug\ShapesLib.pdb
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\Section4\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\Section4\obj\Debug\Section4.Form1.resources
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\Section4\obj\Debug\Section4.Properties.Resources.resources
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\Section4\obj\Debug\Section4.ScaleForm.resources
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\Section4\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Collection\College Materials\SecondYear\Summer Course _ Second Year\DP10 Section4\Section4Part2-Template\Section4\obj\Debug\GenerateResource-ResGen.write.1.tlog

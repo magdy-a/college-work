@@ -1,0 +1,40 @@
+﻿Build started 12/6/2011 5:26:51 AM.
+     1>Project "E:\Collection\Programming Backup\My Projects\Small Programs\Matrices\Matrices 2\Matrices\Matrices\Matrices.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Matrices.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\collection\programming backup\my projects\small programs\matrices\matrices 2\matrices\matrices\rpn.h(12): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\collection\programming backup\my projects\small programs\matrices\matrices 2\matrices\matrices\rpn.h(24): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\collection\programming backup\my projects\small programs\matrices\matrices 2\matrices\matrices\rpn.h(35): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\collection\programming backup\my projects\small programs\matrices\matrices 2\matrices\matrices\rpn.h(55): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\collection\programming backup\my projects\small programs\matrices\matrices 2\matrices\matrices\rpn.h(84): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\collection\programming backup\my projects\small programs\matrices\matrices 2\matrices\matrices\rpn.h(104): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\collection\programming backup\my projects\small programs\matrices\matrices 2\matrices\matrices\rpn.h(117): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\collection\programming backup\my projects\small programs\matrices\matrices 2\matrices\matrices\rpn.h(156): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\collection\programming backup\my projects\small programs\matrices\matrices 2\matrices\matrices\main.cpp(11): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\collection\programming backup\my projects\small programs\matrices\matrices 2\matrices\matrices\main.cpp(36): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\collection\programming backup\my projects\small programs\matrices\matrices 2\matrices\matrices\main.cpp(52): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\collection\programming backup\my projects\small programs\matrices\matrices 2\matrices\matrices\main.cpp(65): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\collection\programming backup\my projects\small programs\matrices\matrices 2\matrices\matrices\main.cpp(112): warning C4018: '<' : signed/unsigned mismatch
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Matrices.exe.embed.manifest.res" Debug\Matrices_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Collection\Programming Backup\My Projects\Small Programs\Matrices\Matrices 2\Matrices\Debug\Matrices.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Matrices.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Collection\Programming Backup\My Projects\Small Programs\Matrices\Matrices 2\Matrices\Debug\Matrices.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Collection\Programming Backup\My Projects\Small Programs\Matrices\Matrices 2\Matrices\Debug\Matrices.lib" /MACHINE:X86 Debug\Matrices.exe.embed.manifest.res
+         Debug\main.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Matrices.exe.embed.manifest" /manifest Debug\Matrices.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Matrices.exe.embed.manifest.res" Debug\Matrices_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Collection\Programming Backup\My Projects\Small Programs\Matrices\Matrices 2\Matrices\Debug\Matrices.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Matrices.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Collection\Programming Backup\My Projects\Small Programs\Matrices\Matrices 2\Matrices\Debug\Matrices.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Collection\Programming Backup\My Projects\Small Programs\Matrices\Matrices 2\Matrices\Debug\Matrices.lib" /MACHINE:X86 Debug\Matrices.exe.embed.manifest.res
+         Debug\main.obj
+         Matrices.vcxproj -> E:\Collection\Programming Backup\My Projects\Small Programs\Matrices\Matrices 2\Matrices\Debug\Matrices.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Matrices.unsuccessfulbuild".
+         Touching "Debug\Matrices.lastbuildstate".
+     1>Done Building Project "E:\Collection\Programming Backup\My Projects\Small Programs\Matrices\Matrices 2\Matrices\Matrices\Matrices.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.14

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Section3">
+</Property><Property Name="Solution File" Value="E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Section3.sln">
+</Property><Property Name="User Options File" Value="E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Section3.suo">
+</Property><Property Name="Date" Value="Monday, October 17, 2011">
+</Property><Property Name="Time" Value="20:01 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Section3.sln" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Section3.suo" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3.suo">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\Section3.csproj" Description="Project file successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3\Section3.csproj">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\Form1.cs" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\Form1.Designer.cs" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\Program.cs" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3\Program.cs">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\ScaleForm.cs" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3\ScaleForm.cs">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\ScaleForm.Designer.cs" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3\ScaleForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\Properties\Settings.settings" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\Form1.resx" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\Properties\Resources.resx" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\ScaleForm.resx" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\Section3\ScaleForm.resx">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\Section3.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Section3" Source="Section3\Section3.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ShapesLib" Source="ShapesLib\ShapesLib.csproj" Description="Project file successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\ShapesLib\ShapesLib.csproj">
+</Event><Event ErrorLevel="0" Project="ShapesLib" Source="ShapesLib\Circle.cs" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\ShapesLib\Circle.cs">
+</Event><Event ErrorLevel="0" Project="ShapesLib" Source="ShapesLib\Ellipse.cs" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\ShapesLib\Ellipse.cs">
+</Event><Event ErrorLevel="0" Project="ShapesLib" Source="ShapesLib\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\ShapesLib\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ShapesLib" Source="ShapesLib\Rectangle.cs" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\ShapesLib\Rectangle.cs">
+</Event><Event ErrorLevel="0" Project="ShapesLib" Source="ShapesLib\Shape.cs" Description="File successfully backed up as E:\Collection\Some Data To Keep\Summer Course _ Second Year\Section3\Section3Part3-Template\Backup\Backup\ShapesLib\Shape.cs">
+</Event><Event ErrorLevel="0" Project="ShapesLib" Source="ShapesLib\ShapesLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ShapesLib" Source="ShapesLib\ShapesLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Section3.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Section3.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Section3" Source="Section3\Section3.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ShapesLib" Source="ShapesLib\ShapesLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
