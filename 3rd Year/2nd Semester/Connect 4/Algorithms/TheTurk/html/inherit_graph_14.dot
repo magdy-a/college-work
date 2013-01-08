@@ -1,0 +1,19 @@
+digraph G
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="ChessEngine.Pieces.Piece",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_pieces_1_1_piece.html"];
+  Node1 -> Node2 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="ChessEngine.Pieces.Bishop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_pieces_1_1_bishop.html"];
+  Node1 -> Node3 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="ChessEngine.Pieces.King",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_pieces_1_1_king.html"];
+  Node1 -> Node4 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="ChessEngine.Pieces.Knight",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_pieces_1_1_knight.html"];
+  Node1 -> Node5 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ChessEngine.Pieces.Pawn",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_pieces_1_1_pawn.html"];
+  Node1 -> Node6 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="ChessEngine.Pieces.Queen",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_pieces_1_1_queen.html"];
+  Node1 -> Node7 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="ChessEngine.Pieces.Rook",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_pieces_1_1_rook.html"];
+}

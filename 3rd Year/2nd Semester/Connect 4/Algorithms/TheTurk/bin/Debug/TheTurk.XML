@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TheTurk</name>
+    </assembly>
+    <members>
+        <member name="F:ChessEngine.Main.KillerMoves.bestMoveScores">
+            [depth,From.rank,From.file,To.rank,To.file] 
+        </member>
+        <member name="M:ChessEngine.Main.Board.IsCheckMateOrStaleMate(System.Int32)">
+            <summary>
+            Determine player side is in checkmate or stalemate
+            </summary>
+            <returns>returns Checkmate or stalemate value</returns>
+        </member>
+        <member name="P:ChessEngine.Main.Board.Item(ChessEngine.Main.Coordinate)">
+            <summary>
+            Return piece on specified square
+            </summary>
+            <param name="square">Square</param>
+            <returns>Piece on that square</returns>
+        </member>
+        <member name="M:ChessEngine.Pieces.Piece.GenerateMoves(ChessEngine.Main.Board)">
+            <summary>
+            Generate pseudo moves
+            </summary>
+            <param name="board"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChessEngine.Pieces.Piece.MoveTo(ChessEngine.Main.Board,ChessEngine.Main.Coordinate)">
+            <summary>
+            piece goes specified square
+            </summary>
+            <param name="board"></param>
+            <param name="to"></param>
+        </member>
+        <member name="M:ChessEngine.Pieces.Piece.Evaluation">
+            <summary>
+            Evaluate piece
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ChessEngine.Pieces.Piece.RemoveMe(ChessEngine.Main.Board)">
+            <summary>
+            Remove itself on board
+            </summary>
+        </member>
+        <member name="M:ChessEngine.Pieces.Piece.PutMe(ChessEngine.Main.Board)">
+            <summary>
+            Put itself on board if it is captured.
+            </summary>
+            <param name="board"></param>
+        </member>
+        <member name="M:ChessEngine.Moves.Move.MakeMove(ChessEngine.Main.Board)">
+            <summary>
+            Makes move on board
+            </summary>
+            <param name="board"></param>
+        </member>
+        <member name="M:ChessEngine.Moves.Move.UnMakeMove(ChessEngine.Main.Board)">
+            <summary>
+            Takebacks move
+            </summary>
+            <param name="board"></param>
+        </member>
+        <member name="M:ChessEngine.Moves.Move.MovePriority">
+            <summary>
+            Used for sorting.Better to worst
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ChessEngine.Moves.Move.IONotation">
+            <summary>
+            This notation used for protocol comminication
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ChessEngine.Main.Engine.#ctor(ChessEngine.Main.Board,ChessEngine.Main.IProtocol)">
+            <summary>
+            
+            </summary>
+            <param name="board"></param>
+            <param name="protocol">Protocol will be used to write output of bestline</param>
+        </member>
+        <member name="M:ChessEngine.Main.Engine.Search(System.Int64)">
+            <summary>
+            Calculates best line in given depth
+            </summary>
+            <param name="maxDepth"></param>
+            <param name="timeLimit">Time limit in millisecond</param>
+            <returns></returns>
+        </member>
+        <member name="M:ChessEngine.Main.Engine.AlphaBeta(System.Int32,System.Int32,System.Int32,System.Int32,System.Collections.Generic.List{ChessEngine.Moves.Move},ChessEngine.Main.Engine.NullMove,System.Int32@)">
+            <summary>
+            AlphaBeta algorithm.Calculates best line in given depth
+            </summary>
+            <param name="alpha">Lowest value</param>
+            <param name="beta">highest value</param>
+            <param name="ply"></param>
+            <param name="depth"></param>
+            <param name="pv">Holds principal variation</param>
+            <param name="nullmove"></param>
+            <param name="nodeCount">Holds value of calculated moves</param>
+            <returns>Returning value is the score of best line</returns>
+        </member>
+        <member name="M:ChessEngine.Main.Engine.QuiescenceSearch(System.Int32,System.Int32,System.Int32@)">
+            <summary>
+            Look for capture variations for horizon effect
+            </summary>
+            <param name="alpha"></param>
+            <param name="beta"></param>
+            <param name="nodeCount"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChessEngine.Main.Engine.MVVLVASorting(System.Collections.Generic.IEnumerable{ChessEngine.Moves.Move})">
+            <summary>
+            Filter uncapture moves and sort captured moves
+            </summary>
+            <param name="moves"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChessEngine.Main.Engine.SortMoves(System.Collections.Generic.IEnumerable{ChessEngine.Moves.Move},System.Int32)">
+            <summary>
+            Sort moves best to worst
+            </summary>
+            <param name="moves"></param>
+            <param name="depth"></param>
+            <returns></returns>
+        </member>
+        <member name="T:ChessEngine.Main.Coordinate">
+            <summary>
+            Defines Square coordinates as rank and file
+            </summary>
+        </member>
+        <member name="M:ChessEngine.Main.Coordinate.To(ChessEngine.Main.Coordinate)">
+            <summary>
+            return square on spesified direction
+            </summary>
+            <param name="direction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChessEngine.Main.Coordinate.IsEmpty(ChessEngine.Main.Board)">
+            <summary>
+            Determine whether this square is empty or not
+            </summary>
+            <param name="board">board</param>
+            <returns></returns>
+        </member>
+        <member name="M:ChessEngine.Main.Coordinate.GetPiece(ChessEngine.Main.Board)">
+            <summary>
+            Get piece which sit on this square
+            </summary>
+            <param name="board">Board</param>
+            <returns>Piece on this square</returns>
+        </member>
+        <member name="M:ChessEngine.Main.Coordinate.IsAttackedSquare(ChessEngine.Main.Board,ChessEngine.Pieces.Color)">
+            <summary>
+            Is square attacked by oppenent pieces
+            </summary>
+            <param name="board">Board</param>
+            <param name="enemyColor">Enemy side color</param>
+            <returns></returns>
+        </member>
+        <member name="M:ChessEngine.Main.Coordinate.GetMirror">
+            <summary>
+            Determine white square's mirror by black
+            </summary>
+            <returns>return black mirror square for white square</returns>
+        </member>
+        <member name="F:ChessEngine.Main.Zobrist.pieces">
+            <summary>
+            pieces[side,piece,rank,file]
+            </summary>
+        </member>
+        <member name="F:ChessEngine.Main.HistoryMoves.historyMoves">
+            <summary>
+            Side,fromRank,fromFile,toRank,toFile
+            </summary>
+        </member>
+        <member name="M:ChessEngine.Main.Winboard.Start">
+            <summary>
+            Protocol starts to listen interface and respond
+            </summary>
+        </member>
+        <member name="M:ChessEngine.Main.Winboard.Comminication(System.String)">
+            <summary>
+            Process incoming commands
+            </summary>
+            <param name="input">Incoming string from interface</param>
+        </member>
+    </members>
+</doc>
