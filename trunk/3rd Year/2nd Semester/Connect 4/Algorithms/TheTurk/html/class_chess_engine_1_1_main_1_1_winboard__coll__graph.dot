@@ -1,0 +1,28 @@
+digraph G
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="ChessEngine.Main.Winboard",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="IProtocol",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$interface_chess_engine_1_1_main_1_1_i_protocol.html"];
+  Node3 -> Node1 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="engine",fontname="Helvetica"];
+  Node3 [label="ChessEngine.Main.Engine",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_main_1_1_engine.html"];
+  Node4 -> Node3 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="Protocol",fontname="Helvetica"];
+  Node4 [label="ChessEngine.Main.IProtocol",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$interface_chess_engine_1_1_main_1_1_i_protocol.html"];
+  Node5 -> Node3 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="killerMoves",fontname="Helvetica"];
+  Node5 [label="ChessEngine.Main.KillerMoves",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_main_1_1_killer_moves.html"];
+  Node6 -> Node5 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="BestMoves",fontname="Helvetica"];
+  Node6 [label="ChessEngine.Moves.Move",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_moves_1_1_move.html"];
+  Node7 -> Node3 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="historyMoves",fontname="Helvetica"];
+  Node7 [label="ChessEngine.Main.HistoryMoves",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_main_1_1_history_moves.html"];
+  Node8 -> Node3 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="Board",fontname="Helvetica"];
+  Node8 [label="ChessEngine.Main.Board",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_main_1_1_board.html"];
+  Node9 -> Node8 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="threeFoldRepetetion",fontname="Helvetica"];
+  Node9 [label="ChessEngine.Main.ThreeFoldRepetition",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_main_1_1_three_fold_repetition.html"];
+  Node10 -> Node8 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="zobrist",fontname="Helvetica"];
+  Node10 [label="ChessEngine.Main.Zobrist",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_main_1_1_zobrist.html"];
+  Node8 -> Node10 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="board",fontname="Helvetica"];
+  Node11 -> Node1 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="timer",fontname="Helvetica"];
+  Node11 [label="ChessEngine.Main.ChessClock",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_chess_engine_1_1_main_1_1_chess_clock.html"];
+}

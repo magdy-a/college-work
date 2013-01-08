@@ -1,0 +1,65 @@
+#ifdef APSTUDIO_INVOKED
+//#error this file is not editable by Microsoft Visual C++
+#endif //APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Add manually edited resources here...
+
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+#include "./GladiatorEngine/Version.h"
+
+#define _STR(x) #x
+#define STR(x) _STR(x)
+
+#define VERSION_NUMBER VERSION_MAJOR,VERSION_MINOR, \
+                              VERSION_BUILD,VERSION_QFE
+#define VERSION_STRING STR(VERSION_MAJOR) "." STR(VERSION_MINOR) "." \
+                                 STR(VERSION_BUILD) "." STR(VERSION_QFE)
+
+#define PRODUCT_VERSION_NUMBER PRODUCT_VERSION_MAJOR,PRODUCT_VERSION_MINOR, \
+                              PRODUCT_VERSION_BUILD,PRODUCT_VERSION_QFE
+#define PRODUCT_VERSION_STRING STR(PRODUCT_VERSION_MAJOR) "," STR(PRODUCT_VERSION_MINOR) "," \
+                                 STR(PRODUCT_VERSION_BUILD) "," STR(PRODUCT_VERSION_QFE)
+
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION VERSION_NUMBER
+ PRODUCTVERSION PRODUCT_VERSION_NUMBER
+ FILEFLAGSMASK 0x17L
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080704b0"
+        BEGIN
+            VALUE "CompanyName", PRODUCT_AUTHOR "\0"
+            VALUE "FileDescription", PRODUCT_DESCRIPTION "\0"
+            VALUE "FileVersion", VERSION_STRING "\0"
+            VALUE "InternalName", "Gladiator"
+            VALUE "LegalCopyright", PRODUCT_COPYRIGHT "\0"
+            VALUE "OriginalFilename", "Gladiator.dll"
+            VALUE "ProductName", "Gladiator"
+            VALUE "ProductVersion", PRODUCT_VERSION_STRING "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x807, 1200
+    END
+END
+

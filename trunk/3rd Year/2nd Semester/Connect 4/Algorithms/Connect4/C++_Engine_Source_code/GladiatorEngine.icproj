@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="GladiatorEngine"
+	ProjectGUID="{8F38E73A-7A61-4121-AAA4-4042A322B0A8}"
+	VCNestedProjectGUID="{82418893-291C-47C1-9324-8635C7E388ED}"
+	VCNestedProjectFileName="GladiatorEngine.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

@@ -1,0 +1,41 @@
+c:\users\nod32\documents\visual studio 2010\Projects\TheTurk\TheTurk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NOD32\Documents\Visual Studio 2010\Projects\The Turk\TheTurk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NOD32\Documents\Visual Studio 2010\Projects\The Turk\TheTurk\bin\Debug\TheTurk.exe
+C:\Users\NOD32\Documents\Visual Studio 2010\Projects\The Turk\TheTurk\bin\Debug\TheTurk.pdb
+C:\Users\NOD32\Documents\Visual Studio 2010\Projects\The Turk\TheTurk\obj\x86\Debug\TheTurk.exe
+C:\Users\NOD32\Documents\Visual Studio 2010\Projects\The Turk\TheTurk\obj\x86\Debug\TheTurk.pdb
+C:\Users\NOD32\Documents\Visual Studio 2010\Projects\TheTurk\TheTurk\obj\x86\Debug\TheTurk.exe
+C:\Users\NOD32\Documents\Visual Studio 2010\Projects\TheTurk\TheTurk\obj\x86\Debug\TheTurk.pdb
+C:\Users\NOD32\Documents\Visual Studio 2010\Projects\TheTurk\TheTurk\bin\Debug\TheTurk.exe
+C:\Users\NOD32\Documents\Visual Studio 2010\Projects\TheTurk\TheTurk\bin\Debug\TheTurk.pdb
+C:\Users\NOD32\Desktop\TheTurk\TheTurk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NOD32\Desktop\TheTurk\TheTurk\obj\x86\Debug\TheTurk.exe
+C:\Users\NOD32\Desktop\TheTurk\TheTurk\obj\x86\Debug\TheTurk.pdb
+C:\Users\NOD32\Desktop\TheTurk\TheTurk\bin\Debug\TheTurk.exe
+C:\Users\NOD32\Desktop\TheTurk\TheTurk\bin\Debug\TheTurk.pdb
+C:\Users\Yahya Ehsan\Desktop\TheTurk_da259a359b01\TheTurk\obj\x86\Debug\TheTurk.exe
+C:\Users\Yahya Ehsan\Desktop\TheTurk_da259a359b01\TheTurk\obj\x86\Debug\TheTurk.pdb
+C:\Users\Yahya Ehsan\Desktop\TheTurk_da259a359b01\TheTurk\bin\Debug\TheTurk.exe
+C:\Users\Yahya Ehsan\Desktop\TheTurk_da259a359b01\TheTurk\bin\Debug\TheTurk.pdb
+C:\Users\Yahya Ehsan\Desktop\TheTurk_da259a359b01\TheTurk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yahya Ehsan\Desktop\OOP\project\Chess game\chess engine\TheTurk\obj\x86\Debug\TheTurk.exe
+C:\Users\Yahya Ehsan\Desktop\OOP\project\Chess game\chess engine\TheTurk\obj\x86\Debug\TheTurk.pdb
+C:\Users\Yahya Ehsan\Desktop\project\Chess game\chess engine\TheTurk\obj\x86\Debug\TheTurk.exe
+C:\Users\Yahya Ehsan\Desktop\project\Chess game\chess engine\TheTurk\obj\x86\Debug\TheTurk.pdb
+C:\Users\Yahya Ehsan\Desktop\project\Chess\chess engine\TheTurk\obj\x86\Debug\TheTurk.exe
+C:\Users\Yahya Ehsan\Desktop\project\Chess\chess engine\TheTurk\obj\x86\Debug\TheTurk.pdb
+C:\Users\Yahya Ehsan\Desktop\project\Chess\TheTurk\TheTurk\bin\Debug\TheTurk.exe
+C:\Users\Yahya Ehsan\Desktop\project\Chess\TheTurk\TheTurk\bin\Debug\TheTurk.pdb
+C:\Users\Yahya Ehsan\Desktop\project\Chess\TheTurk\TheTurk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yahya Ehsan\Desktop\project\Chess\TheTurk\TheTurk\obj\x86\Debug\TheTurk.exe
+C:\Users\Yahya Ehsan\Desktop\project\Chess\TheTurk\TheTurk\obj\x86\Debug\TheTurk.pdb
+C:\Users\Yahya Ehsan\Desktop\project\Chess\TheTurk\TheTurk\bin\Debug\TheTurk.XML
+C:\Users\Yahya Ehsan\Desktop\project\Chess\TheTurk\bin\Debug\TheTurk.XML
+C:\Users\Yahya Ehsan\Desktop\project\Chess\TheTurk\obj\x86\Debug\TheTurk.exe
+C:\Users\Yahya Ehsan\Desktop\project\Chess\TheTurk\obj\x86\Debug\TheTurk.pdb
+C:\Ahmad\College\Artificial Intelligence\TheTurk\bin\Debug\TheTurk.XML
+C:\Ahmad\College\Artificial Intelligence\TheTurk\obj\x86\Debug\TheTurk.exe
+C:\Ahmad\College\Artificial Intelligence\TheTurk\obj\x86\Debug\TheTurk.pdb
+C:\Ahmad\College\Artificial Intelligence\TheTurk\bin\Debug\TheTurk.exe
+C:\Ahmad\College\Artificial Intelligence\TheTurk\bin\Debug\TheTurk.pdb
+C:\Ahmad\College\Artificial Intelligence\TheTurk\obj\x86\Debug\ResolveAssemblyReference.cache
