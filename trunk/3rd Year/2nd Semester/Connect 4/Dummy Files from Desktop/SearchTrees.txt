@@ -1,0 +1,4 @@
+-(Evaluation Function) is the key to a stron computer game, it is the function that determines whether a certain board position is 'good' or 'bad'.
+-Chess Like Game should create a search tree with limited depth, the deeper the depth is the more strong the result is.
+-using a 'good' successor genertor will allow alpha-beta to search to a level twice as deep as minimax in the same amount of time.
+-The AI Game should be intelliegent engouh to be 'Unbredictable' ... don't make ur algorithm chooses the same value from a certain condition in the time there exit another ways.

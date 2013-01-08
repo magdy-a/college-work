@@ -1,0 +1,26 @@
+
+V.Imp .... sometimes it leave a win >>> for another node
+	some cutting off happens in the middle of search
+	same problem, it always plays at the left column .. that is bad, it should be in the middle
+
+
+I should consider the bugs in the code usign the debugger in the VPI ... ( included in the folder "Project" some photos of some bugs in the "SemiFinal" Project.
+
+also Understand the ( even threat & odd threat & ... & and their relation to who plays first >>> )
+Victor ( maybe Victor Allan ) solved connect 4 in his ( Majestier ) 1988 ... his strategy is unbeatable .. same as second line 
+alot of books in "Algorithms" folder .. the file the explanes the even&odd threat in the same folder here "Project"
+
+you should consider the order you placed you predicates .. and the calls ( who calls who ) 
+
+improve the evaluateBoard, by checking the last Played line ... not the nextPlays Line
+
+go for learning a how to make a "Paper" .. practicing in connect4 .. under Dr.Ahamd Salah Supervision .. and the help of any who want from the other 2 teams ( check mails to contact ) 
+
+save and load ( save & consult )
+
+levels
+
+learn a little about VPI 7.3
+
+(optional) : make the user choose who is ex and who is oh ... and who plays first ( done ) ... and how many human in the game ( if 2 ask for each ) if just one ( ask for his player ) .. then ask who play first 
+
