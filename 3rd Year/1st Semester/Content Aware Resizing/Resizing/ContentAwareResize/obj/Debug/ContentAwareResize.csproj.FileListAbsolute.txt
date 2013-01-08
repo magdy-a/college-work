@@ -1,0 +1,32 @@
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\VS2008\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\VS2008\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\VS2008\ContentAwareResize\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\VS2008\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.Cache
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\VS2008\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\VS2008\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\VS2008\ContentAwareResize\obj\Debug\Content_Aware.Properties.Resources.resources
+E:\Ahmed\College\Design and Analysis of Algorithms\MyProject\8 Vertical Forward Done ( El7 )\VS2008\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+E:\Ahmed\College\Design and Analysis of Algorithms\MyProject\8 Vertical Forward Done ( El7 )\VS2008\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+E:\Ahmed\College\Design and Analysis of Algorithms\MyProject\8 Vertical Forward Done ( El7 )\VS2008\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+E:\Ahmed\College\Design and Analysis of Algorithms\MyProject\8 Vertical Forward Done ( El7 )\VS2008\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+E:\Ahmed\College\Design and Analysis of Algorithms\MyProject\8 Vertical Forward Done ( El7 )\VS2008\ContentAwareResize\obj\Debug\ResolveAssemblyReference.cache
+E:\Ahmed\College\Design and Analysis of Algorithms\MyProject\8 Vertical Forward Done ( El7 )\VS2008\ContentAwareResize\obj\Debug\Content_Aware.MyForm.resources
+E:\Ahmed\College\Design and Analysis of Algorithms\MyProject\8 Vertical Forward Done ( El7 )\VS2008\ContentAwareResize\obj\Debug\Content_Aware.Properties.Resources.resources
+E:\Ahmed\College\Design and Analysis of Algorithms\MyProject\8 Vertical Forward Done ( El7 )\VS2008\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.Cache
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\VS2008\ContentAwareResize\obj\Debug\Content_Aware.MainForm.resources
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Resizing\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Resizing\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Resizing\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Resizing\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Resizing\ContentAwareResize\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Resizing\ContentAwareResize\obj\Debug\Content_Aware.MainForm.resources
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Resizing\ContentAwareResize\obj\Debug\Content_Aware.Properties.Resources.resources
+C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\Resizing\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.Cache
+E:\Collection\Programming Backup\My Projects\Content Aware Resizing\MyProject\Backup\20 Day before Interview\Resizing\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+E:\Collection\Programming Backup\My Projects\Content Aware Resizing\MyProject\Backup\20 Day before Interview\Resizing\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+E:\Collection\Programming Backup\My Projects\Content Aware Resizing\MyProject\Backup\20 Day before Interview\Resizing\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+E:\Collection\Programming Backup\My Projects\Content Aware Resizing\MyProject\Backup\20 Day before Interview\Resizing\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+E:\Collection\Programming Backup\My Projects\Content Aware Resizing\MyProject\Backup\20 Day before Interview\Resizing\ContentAwareResize\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\Programming Backup\My Projects\Content Aware Resizing\MyProject\Backup\20 Day before Interview\Resizing\ContentAwareResize\obj\Debug\Content_Aware.MainForm.resources
+E:\Collection\Programming Backup\My Projects\Content Aware Resizing\MyProject\Backup\20 Day before Interview\Resizing\ContentAwareResize\obj\Debug\Content_Aware.Properties.Resources.resources
+E:\Collection\Programming Backup\My Projects\Content Aware Resizing\MyProject\Backup\20 Day before Interview\Resizing\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.Cache

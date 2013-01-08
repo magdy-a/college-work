@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ContentAwareResize">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Magdy\My Documents\Visual Studio 2008\Projects\VS2008\ContentAwareResize.sln">
+</Property><Property Name="Date" Value="Friday, December 10, 2010">
+</Property><Property Name="Time" Value="20:23 PM">
+</Property></Properties><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\ContentAwareResize.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ContentAwareResize" Source="ContentAwareResize\ContentAwareResize.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ContentAwareResize.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ContentAwareResize.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\ContentAwareResize.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
