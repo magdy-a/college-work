@@ -1,0 +1,64 @@
+			To Do in Algo Project					24 ( 9 done )
+
+
+10. Why not to change the Calculate_Energy function in ImageOperations
+	to retreive the Energy Summed by the minimum of every cell child, also with the direction matrix
+	and for the Forward, make your own.
+14. Construct a new design for your code,
+	for example :
+		file for Vertical
+		file for Horizontal
+		file for Combination between them
+18. Design your code, to be faster than Zoom.
+4. Increase Size
+16. make a scroll bar for slowing the resizing operation
+5. Delete Object
+17. to know what u choosed or already calculated, make 6 colors, for each choice,
+	if already calculated mark it with a new colour like ( Color.Lightblue ), 6 booleans
+15. update change in width and height during the resizing operation ( current W & H ).
+	+ update time ( every seam )
+	+ update energy ( every seam )
+6. Change Interface
+12. You have a lot of conditions in Forward Energy ( Vertical & Horizontal ),
+	try to Simplify the code a little.
+20. if entered a new width and height >>
+	check the new width and new Height
+	if smaller >>> continue deleting fromt the image with sum of the previous images with the rest columns & rows
+	if larger >> start a new operation
+21. Don't Delete any seam from the image, just shift and work with the new width and height
+	here you would like to send the Used Width and height with the deleting function
+22. REMEMBER to check for the Overflow Condition in Project Options
+     Try making all Int64, Or maybe only the summed Matrix
+23. To avoid Copying the array with the lastColoumn ( Seam -> Shifted )
+	Use CopyTo to copy the whole coloums( 1D arrays ) in the new matrix >> withou the last
+24. Rotating & Flipping && Croping && Protectin && Masks ( R, G, B )
+
+
+
+
+
+
+
+
+
+
+			########################
+1. (#Done#) Horizontal Forward Energy
+2. (#Done#)Combination between Vertical & Horizontal Forward
+3. (#Done#)Progress bar
+7. (#Done#)Make a Pix for every variation of input
+   ex: ForwardDP,BackwardDP,ForwardGreedy...
+   for every input ( Picture and Dimensions )
+8. (#Done#)Mypoint[,] dir = new Mypoint[Height,Width];
+	why not to make it int
+	in Vertical >>> every cell with index i,j will hold a next position i-1,NewJ
+	in Horizontal >>> every cell with index i,j will hold a next position NewI,j-1
+9. (#Done#)Test Some Pictures to show Dr.Ahmad Salah
+13. (#Done#)Don't forget to delete Useless images in your project.
+11. (#Will Not Do#, cause of time)In Vertical & Horizontal Seam Deleting, you shouldn't write the code twice,
+	you can get the Transpose( T ) of the Horizonal and solve it Vertically
+	then get the Transpose again.
+	
+	but instead i will do the function that gets the transpose and it's reverse.
+19. (#Done#)Mention that when u show another image when content aware resizing the PROGRESS BAR
+			be INVISIABLE & STILL INVISIABLE
