@@ -1,0 +1,43 @@
+/*****************************************************************************
+
+		Copyright (c) My Company
+
+ Project:  CONNECT1
+ FileName: playing.DOM
+ Purpose: Domain definitions for PLAYING.PRO
+ Written by: Visual Prolog
+ Comments:
+******************************************************************************/
+
+global domains
+	
+	intlist=integer*
+	
+	%sList = symbol*.
+	board = brd(sList).
+	bList = board*.
+	
+	square = sqr(symbol,integer).
+	sqrList = square*.
+	
+	cBoard = cbrd(board,square).
+%	cBoard = cbrd(Board,LastPlay).
+	cBList = cBoard*.
+	
+	player = ex ; oh ; none.
+	
+	location = up ; down ; right ; left ; upperLeft ; upperRight ; lowerLeft ; lowerRight ; middle.
+	
+	winDir = horizontal ; vertical ; diagonalRight ; diagonalLeft.
+	
+	situation = playing ; exWon ; ohWon ; draw.
+	
+	inputValidation = valid ; notValid.
+
+global database-myDB
+	
+	currentCBoard(cBoard).
+	currentSituation(situation).
+	currentPlayer(player).
+	inputValidation(inputValidation).
+	userInput(square).
