@@ -1,0 +1,9 @@
+A = 5;
+B = 4;
+A = B * A + 3 * B;
+B = A / 3 + 4 * B;
+If(A < B)
+	Write(A);
+Else
+	Write(B);
+End

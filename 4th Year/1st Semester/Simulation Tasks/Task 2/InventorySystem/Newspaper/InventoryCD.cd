@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Newspaper.Distributions.DiscreteDistribution" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAABIAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAQA=</HashCode>
+      <FileName>Distribution\DiscreteDistribution.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Newspaper.Distributions.ExponentialDistribution" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Distribution\ExponentialDistribution.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Newspaper.Distributions.UniformDistribution" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIAAAAAAAAAAAAAAAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>Distribution\UniformDistribution.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Newspaper.NewspaperSimulation" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAMAwQAAMCAAAGgEAICAAVAnCCIBiCIBAIAAAgCQAAQ=</HashCode>
+      <FileName>NewspaperSimulation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newspaper.SystemStartup" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAlgCJRESACAEEBBASIgbg3cFKkDXIICIAEhAIIgCU=</HashCode>
+      <FileName>SystemStartup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newspaper.Simulation.LCGRandomNumberGenerator" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAQAAAAAAAACgAAAAAAIAQAA=</HashCode>
+      <FileName>Simulation\LCGRandomNumberGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newspaper.Simulation.Model">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgQgCAQEIEgEgAAAQCAAAiAwEBAoICCQCEBgiAAAY=</HashCode>
+      <FileName>Simulation\Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newspaper.Simulation.SimulationManager">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAAAKACAACEgkAAQAAAAgAAAAAAAAAAgABAAAAAA=</HashCode>
+      <FileName>Simulation\SimulationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newspaper.PerformanceMeasure" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAICAAAQAEAICAEwAGIkAAQCgAFIAAAAAAAAA=</HashCode>
+      <FileName>PerformanceMeasure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Newspaper.Distributions.IDistribution" Collapsed="true">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Distribution\IDistribution.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Newspaper.Distributions.DistributionTypes">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Distribution\IDistribution.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newspaper.Simulation.NewsdayType">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Simulation\NewsdayType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newspaper.ChartType">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>PerformanceMeasure.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newspaper.ViewType">
+    <Position X="4" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>PerformanceMeasure.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
