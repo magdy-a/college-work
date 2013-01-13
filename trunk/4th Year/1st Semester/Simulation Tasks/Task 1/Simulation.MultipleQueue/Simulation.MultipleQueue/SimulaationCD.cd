@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MultipleQueue.Distributions.DiscreteDistribution" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAABIAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAQA=</HashCode>
+      <FileName>Distributions\DiscreteDistribution.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MultipleQueue.Distributions.ExponentialDistribution" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Distributions\ExponentialDistribution.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MultipleQueue.Distributions.UniformDistribution" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIAAAAAAAAAAAAAAAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>Distributions\UniformDistribution.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MultipleQueue.Entities.Customer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAEAAABAACaAAAAykAAAMRAAAAAAAAAAAAAgKAA=</HashCode>
+      <FileName>Entities\Customer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MultipleQueue.Entities.Server" Collapsed="true">
+    <Position X="2" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAAEIAABQCAgAUAEAAAAhAAAAIAAAAAAAAgAEAAAA=</HashCode>
+      <FileName>Entities\Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultipleQueue.Entities.ServerBusyTime" Collapsed="true">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAgAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\ServerBusyTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultipleQueue.MultipleServerSimulation" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAECQCGBMCEAQBCEEICoUQYjATAAiCABAAABAACIIAE=</HashCode>
+      <FileName>MultipleServerSimulation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultipleQueue.Simulation.LCGRandomNumberGenerator" Collapsed="true">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAQAAAAAAAACgAAAAAAIAQAA=</HashCode>
+      <FileName>Simulation\LCGRandomNumberGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultipleQueue.Simulation.Model" Collapsed="true">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAELAARBggAQQgAEACIAAAAwEAEAEAEBASACAAAgI=</HashCode>
+      <FileName>Simulation\Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultipleQueue.Simulation.ServerSelection" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Simulation\ServerSelection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MultipleQueue.Distributions.IDistribution" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Distributions\IDistribution.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="MultipleQueue.Distributions.DistributionTypes" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Distributions\IDistribution.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MultipleQueue.Simulation.EventType" Collapsed="true">
+    <Position X="2" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Simulation\EventType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,740 @@
+-----------------------------------------------------
+DateTime: 10/19/2011 6:13:38 PM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 181
+   at IPClassLibrary.HandleImage.GetImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 131
+
+-----------------------------------------------------
+DateTime: 10/19/2011 6:15:32 PM
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at IPClassLibrary.P6.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\PPM\P6.cs:line 120
+   at IPClassLibrary.HandleImage.GetImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 131
+
+-----------------------------------------------------
+DateTime: 10/19/2011 8:36:42 PM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.FilePathFunctions.GetExtension(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Static Classes\FilePathFunctions.cs:line 20
+   at IPClassLibrary.HandleImage.get_Extension() in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 86
+   at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 159
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 125
+
+-----------------------------------------------------
+DateTime: 10/19/2011 8:36:45 PM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.FilePathFunctions.GetExtension(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Static Classes\FilePathFunctions.cs:line 20
+   at IPClassLibrary.HandleImage.get_Extension() in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 86
+   at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 159
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 125
+
+-----------------------------------------------------
+DateTime: 10/19/2011 8:36:47 PM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.FilePathFunctions.GetExtension(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Static Classes\FilePathFunctions.cs:line 20
+   at IPClassLibrary.HandleImage.get_Extension() in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 86
+   at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 159
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 125
+
+-----------------------------------------------------
+DateTime: 10/19/2011 8:41:49 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 193
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 128
+
+-----------------------------------------------------
+DateTime: 10/19/2011 8:42:12 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 193
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 128
+
+-----------------------------------------------------
+DateTime: 10/19/2011 8:43:27 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 193
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 128
+
+-----------------------------------------------------
+DateTime: 10/19/2011 8:44:19 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 195
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 130
+
+-----------------------------------------------------
+DateTime: 10/19/2011 8:44:21 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 195
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 130
+
+-----------------------------------------------------
+DateTime: 10/19/2011 8:44:28 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 195
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 130
+
+-----------------------------------------------------
+DateTime: 10/19/2011 8:45:02 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 196
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 131
+
+-----------------------------------------------------
+DateTime: 10/19/2011 8:45:07 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 196
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 131
+
+-----------------------------------------------------
+DateTime: 10/19/2011 8:45:42 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 196
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 131
+
+-----------------------------------------------------
+DateTime: 10/19/2011 8:47:07 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 196
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 131
+
+-----------------------------------------------------
+DateTime: 10/19/2011 8:47:22 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 196
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 131
+
+-----------------------------------------------------
+DateTime: 10/19/2011 9:21:52 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 196
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 128
+
+-----------------------------------------------------
+DateTime: 10/19/2011 9:21:55 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 196
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 128
+
+-----------------------------------------------------
+DateTime: 10/19/2011 9:21:56 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 196
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 128
+
+-----------------------------------------------------
+DateTime: 10/19/2011 9:22:59 PM
+Message: Couldn't Open the Bitmap Image
+Stack Trace:    at IPClassLibrary.HandleImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 196
+   at IPClassLibrary.HandleImage..ctor(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\HandleImage.cs:line 128
+
+-----------------------------------------------------
+DateTime: 10/20/2011 1:14:14 AM
+Message: Couldn't Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 1:14:16 AM
+Message: Couldn't Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 1:14:19 AM
+Message: Couldn't Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 1:14:28 AM
+Message: Couldn't Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 1:14:30 AM
+Message: Couldn't Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 1:16:44 AM
+Message: Couldn't Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 1:17:45 AM
+Message: Couldn't Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 1:18:20 AM
+Message: Couldn't Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 1:23:34 AM
+Message: Couldn't Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 1:24:21 AM
+Message: Couldn't Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 1:26:14 AM
+Message: Couldn't Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 1:26:38 AM
+Message: Couldn't Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 1:26:40 AM
+Message: Couldn't Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 2:42:54 AM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.BitmapImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\Image Classes\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/20/2011 2:42:54 AM
+Message: Couldn'iType Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 7:13:25 AM
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at PhotoLab.frmIP.btnResize_Click(Object sender, EventArgs e) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\Interface\IP.cs:line 64
+
+-----------------------------------------------------
+DateTime: 10/20/2011 7:13:26 AM
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at PhotoLab.frmIP.btnResize_Click(Object sender, EventArgs e) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\Interface\IP.cs:line 64
+
+-----------------------------------------------------
+DateTime: 10/20/2011 7:13:26 AM
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at PhotoLab.frmIP.btnResize_Click(Object sender, EventArgs e) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\Interface\IP.cs:line 64
+
+-----------------------------------------------------
+DateTime: 10/20/2011 7:14:31 AM
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at PhotoLab.frmIP.btnResize_Click(Object sender, EventArgs e) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\Interface\IP.cs:line 63
+
+-----------------------------------------------------
+DateTime: 10/20/2011 7:14:31 AM
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at PhotoLab.frmIP.btnResize_Click(Object sender, EventArgs e) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\Interface\IP.cs:line 63
+
+-----------------------------------------------------
+DateTime: 10/20/2011 7:14:37 AM
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at PhotoLab.frmIP.btnResize_Click(Object sender, EventArgs e) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\Interface\IP.cs:line 63
+
+-----------------------------------------------------
+DateTime: 10/20/2011 7:14:37 AM
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at PhotoLab.frmIP.btnResize_Click(Object sender, EventArgs e) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\Interface\IP.cs:line 63
+
+-----------------------------------------------------
+DateTime: 10/20/2011 7:14:37 AM
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at PhotoLab.frmIP.btnResize_Click(Object sender, EventArgs e) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\Interface\IP.cs:line 63
+
+-----------------------------------------------------
+DateTime: 10/20/2011 7:14:40 AM
+Message: Invaild Parameters
+Stack Trace:    at PhotoLab.frmIP.btnResize_Click(Object sender, EventArgs e) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\Interface\IP.cs:line 67
+
+-----------------------------------------------------
+DateTime: 10/20/2011 7:14:41 AM
+Message: Invaild Parameters
+Stack Trace:    at PhotoLab.frmIP.btnResize_Click(Object sender, EventArgs e) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\Interface\IP.cs:line 67
+
+-----------------------------------------------------
+DateTime: 10/20/2011 7:14:42 AM
+Message: Invaild Parameters
+Stack Trace:    at PhotoLab.frmIP.btnResize_Click(Object sender, EventArgs e) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\Interface\IP.cs:line 67
+
+-----------------------------------------------------
+DateTime: 10/20/2011 7:14:43 AM
+Message: Invaild Parameters
+Stack Trace:    at PhotoLab.frmIP.btnResize_Click(Object sender, EventArgs e) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\Interface\IP.cs:line 67
+
+-----------------------------------------------------
+DateTime: 10/20/2011 7:14:43 AM
+Message: Invaild Parameters
+Stack Trace:    at PhotoLab.frmIP.btnResize_Click(Object sender, EventArgs e) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\Interface\IP.cs:line 67
+
+-----------------------------------------------------
+DateTime: 10/20/2011 2:24:38 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 40
+
+-----------------------------------------------------
+DateTime: 10/20/2011 2:24:38 PM
+Message: Couldn'iType Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 2:51:08 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 40
+
+-----------------------------------------------------
+DateTime: 10/20/2011 2:51:08 PM
+Message: Couldn'iType Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/20/2011 2:51:12 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 40
+
+-----------------------------------------------------
+DateTime: 10/20/2011 2:51:12 PM
+Message: Couldn'iType Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/21/2011 11:36:29 AM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 39
+
+-----------------------------------------------------
+DateTime: 10/21/2011 11:36:29 AM
+Message: Couldn'itype Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/21/2011 11:36:37 AM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 39
+
+-----------------------------------------------------
+DateTime: 10/21/2011 11:36:37 AM
+Message: Couldn'itype Open the PPM Image
+Stack Trace: 
+
+-----------------------------------------------------
+DateTime: 10/22/2011 4:25:08 AM
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at PhotoLab.IPForm.BtnResize_Click(Object sender, EventArgs e) in E:\College\Image Processing\Lab\Project\IP\Interface\IP.cs:line 72
+
+-----------------------------------------------------
+DateTime: 10/22/2011 11:33:02 AM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.ResizeClasses.Bilinear.ResizeImage(Size newSize) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ResizeClasses\Bilinear.cs:line 75
+
+-----------------------------------------------------
+DateTime: 10/22/2011 11:33:26 AM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.ResizeClasses.Bilinear.ResizeImage(Size newSize) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ResizeClasses\Bilinear.cs:line 78
+
+-----------------------------------------------------
+DateTime: 10/22/2011 11:33:33 AM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.ResizeClasses.Bilinear.ResizeImage(Size newSize) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ResizeClasses\Bilinear.cs:line 78
+
+-----------------------------------------------------
+DateTime: 10/22/2011 11:39:20 AM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.ResizeClasses.Bilinear.ResizeImage(Size newSize) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ResizeClasses\Bilinear.cs:line 78
+
+-----------------------------------------------------
+DateTime: 10/22/2011 11:42:19 AM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.ResizeClasses.Bilinear.ResizeImage(Size newSize) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ResizeClasses\Bilinear.cs:line 78
+
+-----------------------------------------------------
+DateTime: 10/22/2011 11:46:58 AM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.ResizeClasses.Bilinear.ResizeImage(Size newSize) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ResizeClasses\Bilinear.cs:line 78
+
+-----------------------------------------------------
+DateTime: 10/22/2011 11:55:51 AM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.ResizeClasses.BiCubic.ResizeImage(Size newSize) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ResizeClasses\BiCubic.cs:line 70
+
+-----------------------------------------------------
+DateTime: 10/22/2011 12:00:38 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at IPClassLibrary.ImageClasses.HandleImage.RenewBitmap() in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\HandleImage.cs:line 271
+
+-----------------------------------------------------
+DateTime: 10/22/2011 12:00:38 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at IPClassLibrary.ImageClasses.HandleImage.RenewBitmap() in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\HandleImage.cs:line 271
+
+-----------------------------------------------------
+DateTime: 10/22/2011 12:00:44 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at IPClassLibrary.ImageClasses.HandleImage.RenewBitmap() in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\HandleImage.cs:line 271
+
+-----------------------------------------------------
+DateTime: 10/22/2011 12:00:44 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at IPClassLibrary.ImageClasses.HandleImage.RenewBitmap() in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\HandleImage.cs:line 271
+
+-----------------------------------------------------
+DateTime: 10/22/2011 12:00:56 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at IPClassLibrary.ImageClasses.HandleImage.RenewBitmap() in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\HandleImage.cs:line 271
+
+-----------------------------------------------------
+DateTime: 10/22/2011 12:00:56 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at IPClassLibrary.ImageClasses.HandleImage.RenewBitmap() in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\HandleImage.cs:line 271
+
+-----------------------------------------------------
+DateTime: 10/22/2011 12:03:41 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at IPClassLibrary.ImageClasses.HandleImage.RenewBitmap() in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\HandleImage.cs:line 271
+
+-----------------------------------------------------
+DateTime: 10/22/2011 12:03:41 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at IPClassLibrary.ImageClasses.HandleImage.RenewBitmap() in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\HandleImage.cs:line 271
+
+-----------------------------------------------------
+DateTime: 10/22/2011 12:03:43 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at IPClassLibrary.ImageClasses.HandleImage.RenewBitmap() in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\HandleImage.cs:line 271
+
+-----------------------------------------------------
+DateTime: 10/22/2011 12:03:45 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at IPClassLibrary.ImageClasses.HandleImage.RenewBitmap() in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\HandleImage.cs:line 271
+
+-----------------------------------------------------
+DateTime: 10/22/2011 12:03:46 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at IPClassLibrary.ImageClasses.HandleImage.RenewBitmap() in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\HandleImage.cs:line 271
+
+-----------------------------------------------------
+DateTime: 10/22/2011 12:04:40 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at IPClassLibrary.ImageClasses.HandleImage.RenewBitmap() in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\HandleImage.cs:line 271
+
+-----------------------------------------------------
+DateTime: 10/22/2011 2:04:21 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/22/2011 2:05:44 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/22/2011 2:05:50 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/22/2011 2:05:56 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/22/2011 2:06:12 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/22/2011 2:07:13 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/22/2011 2:46:37 PM
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at PhotoLab.IPForm.BtnResize_Click(Object sender, EventArgs e) in E:\College\Image Processing\Lab\Project\IP\Interface\IP.cs:line 82
+
+-----------------------------------------------------
+DateTime: 10/22/2011 3:58:31 PM
+Message: The process cannot access the file 'E:\College\Image Processing\Lab\IP'11 1st Lab\Images\P6\P6image.PPM' because it is being used by another process.
+Stack Trace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at IPClassLibrary.ImageClasses.PPM.ReadType(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\PPM.cs:line 211
+
+-----------------------------------------------------
+DateTime: 10/22/2011 3:58:37 PM
+Message: The process cannot access the file 'E:\College\Image Processing\Lab\IP'11 1st Lab\Images\P3\CAT55.ppm' because it is being used by another process.
+Stack Trace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at IPClassLibrary.ImageClasses.PPM.ReadType(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\PPM.cs:line 211
+
+-----------------------------------------------------
+DateTime: 10/22/2011 3:58:43 PM
+Message: The process cannot access the file 'E:\College\Image Processing\Lab\IP'11 1st Lab\Images\P3\CAT55.ppm' because it is being used by another process.
+Stack Trace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at IPClassLibrary.ImageClasses.PPM.ReadType(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\PPM.cs:line 211
+
+-----------------------------------------------------
+DateTime: 10/22/2011 4:02:51 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/22/2011 4:02:54 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/22/2011 4:15:28 PM
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at PhotoLab.IPForm.BtnResize_Click(Object sender, EventArgs e) in E:\College\Image Processing\Lab\Project\IP\Interface\IP.cs:line 101
+
+-----------------------------------------------------
+DateTime: 10/22/2011 5:23:34 PM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.ImageClasses.P3.SaveImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 166
+
+-----------------------------------------------------
+DateTime: 10/22/2011 5:24:44 PM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.ImageClasses.P3.SaveImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 166
+
+-----------------------------------------------------
+DateTime: 10/22/2011 5:24:54 PM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.ImageClasses.P6.SaveImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P6.cs:line 206
+
+-----------------------------------------------------
+DateTime: 10/22/2011 5:27:25 PM
+Message: PPM Image is corrupted
+Stack Trace:    at IPClassLibrary.ImageClasses.PPM.ReadType(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\PPM.cs:line 228
+
+-----------------------------------------------------
+DateTime: 10/22/2011 7:38:33 PM
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at IPClassLibrary.ImageClasses.P3.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 119
+
+-----------------------------------------------------
+DateTime: 10/22/2011 7:39:35 PM
+Message: Index was outside the bounds of the array.
+Stack Trace:    at IPClassLibrary.ImageClasses.P3.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 70
+
+-----------------------------------------------------
+DateTime: 10/22/2011 7:41:29 PM
+Message: Index was outside the bounds of the array.
+Stack Trace:    at IPClassLibrary.ImageClasses.P3.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 70
+
+-----------------------------------------------------
+DateTime: 10/22/2011 7:45:30 PM
+Message: Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+Stack Trace:    at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.RemoveRange(Int32 index, Int32 count)
+   at IPClassLibrary.ImageClasses.P3.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 153
+
+-----------------------------------------------------
+DateTime: 10/22/2011 7:45:33 PM
+Message: Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+Stack Trace:    at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.RemoveRange(Int32 index, Int32 count)
+   at IPClassLibrary.ImageClasses.P3.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 153
+
+-----------------------------------------------------
+DateTime: 10/22/2011 7:45:42 PM
+Message: Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+Stack Trace:    at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.RemoveRange(Int32 index, Int32 count)
+   at IPClassLibrary.ImageClasses.P3.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 153
+
+-----------------------------------------------------
+DateTime: 10/22/2011 7:45:47 PM
+Message: Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+Stack Trace:    at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.RemoveRange(Int32 index, Int32 count)
+   at IPClassLibrary.ImageClasses.P3.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 153
+
+-----------------------------------------------------
+DateTime: 10/22/2011 8:05:03 PM
+Message: Value was either too large or too small for an unsigned byte.
+Stack Trace:    at System.Byte.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at IPClassLibrary.ImageClasses.P3.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 70
+
+-----------------------------------------------------
+DateTime: 10/22/2011 8:05:05 PM
+Message: Value was either too large or too small for an unsigned byte.
+Stack Trace:    at System.Byte.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at IPClassLibrary.ImageClasses.P3.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 70
+
+-----------------------------------------------------
+DateTime: 10/22/2011 8:06:37 PM
+Message: Value was either too large or too small for an unsigned byte.
+Stack Trace:    at System.Byte.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Byte.Parse(String s)
+   at IPClassLibrary.ImageClasses.P3.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 140
+
+-----------------------------------------------------
+DateTime: 10/22/2011 8:36:04 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at IPClassLibrary.ImageClasses.HandleImage.RenewBitmap() in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\HandleImage.cs:line 259
+
+-----------------------------------------------------
+DateTime: 10/24/2011 1:26:47 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/24/2011 2:50:24 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/24/2011 2:50:29 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/24/2011 2:51:56 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/24/2011 2:52:38 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/24/2011 2:54:14 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/24/2011 2:54:20 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/24/2011 2:54:56 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/24/2011 2:56:40 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/24/2011 2:56:46 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/24/2011 2:57:46 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/24/2011 2:59:55 PM
+Message: Parameter is not valid.
+Stack Trace:    at System.Drawing.Bitmap..ctor(String filename)
+   at IPClassLibrary.ImageClasses.BitmapImage.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\Bitmap\BitmapImage.cs:line 38
+
+-----------------------------------------------------
+DateTime: 10/26/2011 12:01:10 PM
+Message: Index was outside the bounds of the array.
+Stack Trace:    at IPClassLibrary.ImageClasses.P3.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 60
+
+-----------------------------------------------------
+DateTime: 10/26/2011 12:03:24 PM
+Message: Index was outside the bounds of the array.
+Stack Trace:    at IPClassLibrary.ImageClasses.P3.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 60
+
+-----------------------------------------------------
+DateTime: 10/26/2011 12:04:03 PM
+Message: Index was outside the bounds of the array.
+Stack Trace:    at IPClassLibrary.ImageClasses.P3.OpenImage(String filePath) in E:\College\Image Processing\Lab\Project\IP\IPClassLibrary\ImageClasses\PPM\P3.cs:line 60
+
+-----------------------------------------------------
+DateTime: 10/30/2011 2:05:40 PM
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at PhotoLab.IPForm.BtnResize_Click(Object sender, EventArgs e) in E:\College\Image Processing\Lab\Project\IP\Interface\IP.cs:line 146
+

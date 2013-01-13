@@ -1,0 +1,7 @@
+if then else end repeat until read write
+
+( ) ;
+
++ - * / = < >
+
+:= ++ -- *= /= += -= <= >=
