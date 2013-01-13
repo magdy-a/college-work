@@ -1,0 +1,30 @@
+Posted: Thu May 27, 2004 6:35 pm   Post subject: (No subject)	
+i think better AI would be: 
+
+connect4 
+block 4 
+place one to create two 3 ina rows 
+block 3 
+build a 2inarow near to another 2 in a row 
+build 2 (anywhere on screen) 
+block 2 
+random move 
+
+and have a predefined starting move in the centre. 
+
+
+
+====================================================================================
+
+try making a recursive procedure that goes a certain depth (how many move forward). for for each move you have a weight ie: 
+
+connect 4 = +infinity 
+block 4 = 1000000 
+make 3 = 100000 
+block 3 = 50000 
+make 2 = 30000 
+block 2 = 10000 
+
+then for each move the computer makes search through all the possiblities and add those points to the total score of that particular move "branch" then do the same for the human and assume he makes the best move aswell but this time subtract the score... while the procedure is sorting the moves, keep track of the best scoreing branch. once the procedure is done then make the move that lead to the best scoring branch... you dont really need to worry about making your algorithm efficient like chess since there is only a possiblity of a max of 8 moves per turn unlike chess which averages 38... so you can make your AI look like 10 moves ahead while only taking a few seconds to think...
+
+====================================================================================
