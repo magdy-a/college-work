@@ -1,0 +1,5 @@
+c:\users\ahmad\documents\visual studio 2010\Projects\SecurityPackage\SecurityLibrary\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ahmad\documents\visual studio 2010\Projects\SecurityPackage\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+c:\users\ahmad\documents\visual studio 2010\Projects\SecurityPackage\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+c:\users\ahmad\documents\visual studio 2010\Projects\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+c:\users\ahmad\documents\visual studio 2010\Projects\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.pdb

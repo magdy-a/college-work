@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Code\sum.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sum.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculate_Fitness_AF_fay.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Code\Calculate_Fitness_AF_fay.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Code\sind.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sind.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="abs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Code\abs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculate_Fitness_AF_fay_initialize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Code\Calculate_Fitness_AF_fay_initialize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculate_Fitness_AF_fay_terminate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Code\Calculate_Fitness_AF_fay_terminate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculate_Fitness_AFmin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Code\Calculate_Fitness_AFmin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="calculate_pbest_obj_AF.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Code\calculate_pbest_obj_AF.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Code\cosd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cosd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Code\exp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Code\repmat.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="repmat.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Code\rt_nonfinite.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rt_nonfinite.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Code\rtGetInf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rtGetInf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Code\rtGetNaN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rtGetNaN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="abs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\abs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Calculate_Fitness_AF_fay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Calculate_Fitness_AF_fay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Calculate_Fitness_AF_fay_initialize.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Calculate_Fitness_AF_fay_initialize.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Calculate_Fitness_AF_fay_terminate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Calculate_Fitness_AF_fay_terminate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Calculate_Fitness_AF_fay_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Calculate_Fitness_AF_fay_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Calculate_Fitness_AFmin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Calculate_Fitness_AFmin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="calculate_pbest_obj_AF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\calculate_pbest_obj_AF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cosd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\cosd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\exp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\repmat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="repmat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\rt_nonfinite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rt_nonfinite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\rtGetInf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rtGetInf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\rtGetNaN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rtGetNaN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\rtwtypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rtwtypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\sind.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sind.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

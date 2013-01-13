@@ -1,0 +1,10 @@
+C:\Users\Ahmad\documents\visual studio 2010\Projects\NeuralNetwork\NNLibrary\bin\Debug\NNLibrary.dll
+C:\Users\Ahmad\documents\visual studio 2010\Projects\NeuralNetwork\NNLibrary\bin\Debug\NNLibrary.pdb
+C:\Users\Ahmad\documents\visual studio 2010\Projects\NeuralNetwork\NNLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmad\documents\visual studio 2010\Projects\NeuralNetwork\NNLibrary\obj\Debug\NNLibrary.dll
+C:\Users\Ahmad\documents\visual studio 2010\Projects\NeuralNetwork\NNLibrary\obj\Debug\NNLibrary.pdb
+E:\College\Neural Network\Project\NeuralNetwork\NNLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\College\Neural Network\Project\NeuralNetwork\NNLibrary\obj\Debug\NNLibrary.dll
+E:\College\Neural Network\Project\NeuralNetwork\NNLibrary\bin\Debug\NNLibrary.dll
+E:\College\Neural Network\Project\NeuralNetwork\NNLibrary\bin\Debug\NNLibrary.pdb
+E:\College\Neural Network\Project\NeuralNetwork\NNLibrary\obj\Debug\NNLibrary.pdb
