@@ -1,0 +1,11 @@
+E:\College\Neural Network\Project\NeuralNetwork\NeuralNetwork\bin\Release\NeuralNetwork.exe
+E:\College\Neural Network\Project\NeuralNetwork\NeuralNetwork\bin\Release\NeuralNetwork.pdb
+E:\College\Neural Network\Project\NeuralNetwork\NeuralNetwork\bin\Release\NNLibrary.dll
+E:\College\Neural Network\Project\NeuralNetwork\NeuralNetwork\bin\Release\NNLibrary.pdb
+E:\College\Neural Network\Project\NeuralNetwork\NeuralNetwork\obj\x86\Release\ResolveAssemblyReference.cache
+E:\College\Neural Network\Project\NeuralNetwork\NeuralNetwork\obj\x86\Release\NeuralNetwork.Properties.Resources.resources
+E:\College\Neural Network\Project\NeuralNetwork\NeuralNetwork\obj\x86\Release\NeuralNetwork.NNProject.resources
+E:\College\Neural Network\Project\NeuralNetwork\NeuralNetwork\obj\x86\Release\GenerateResource.read.1.tlog
+E:\College\Neural Network\Project\NeuralNetwork\NeuralNetwork\obj\x86\Release\GenerateResource.write.1.tlog
+E:\College\Neural Network\Project\NeuralNetwork\NeuralNetwork\obj\x86\Release\NeuralNetwork.exe
+E:\College\Neural Network\Project\NeuralNetwork\NeuralNetwork\obj\x86\Release\NeuralNetwork.pdb

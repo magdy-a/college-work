@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\BigInt">
+      <UniqueIdentifier>{a38032f7-80c0-46f6-8444-03afcfc50920}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\OMP">
+      <UniqueIdentifier>{b7c96e02-f82c-4ed8-abff-3ca97470d5be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MPI">
+      <UniqueIdentifier>{a0112996-befa-4fc4-be80-7444da06f2e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MPI\Assignments">
+      <UniqueIdentifier>{e339d8c8-64e6-48ae-8507-a69d09bd106d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MPI\Dr.Dalia Revision">
+      <UniqueIdentifier>{156b87ae-1293-46f8-ae0f-c905279bf9f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MPI\Other Codes">
+      <UniqueIdentifier>{daab117f-6653-40e4-8079-201643ec34c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MPI\Assignments\MonteCarlo">
+      <UniqueIdentifier>{6700c6f3-b7b5-4fe2-ac3c-ba8ad2ca7683}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MPI\Assignments\Intro_CollectiveCommunication">
+      <UniqueIdentifier>{faf015e2-508b-4ad0-a6b1-bf8c86de9b18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MPI\BigInt">
+      <UniqueIdentifier>{09bc436e-3995-4d15-ac06-ffa7d226dad2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BigInt.cpp">
+      <Filter>Source Files\MPI\BigInt</Filter>
+    </ClCompile>
+    <ClCompile Include="tvector.cpp">
+      <Filter>Source Files\MPI\BigInt</Filter>
+    </ClCompile>
+    <ClCompile Include="Program6_MatrixMultiplication_3.cpp">
+      <Filter>Source Files\MPI\Dr.Dalia Revision</Filter>
+    </ClCompile>
+    <ClCompile Include="Program1_HelloWorld.cpp">
+      <Filter>Source Files\MPI\Dr.Dalia Revision</Filter>
+    </ClCompile>
+    <ClCompile Include="Program2_HelloWorld_Sorted.cpp">
+      <Filter>Source Files\MPI\Dr.Dalia Revision</Filter>
+    </ClCompile>
+    <ClCompile Include="Program3_PingPong.cpp">
+      <Filter>Source Files\MPI\Dr.Dalia Revision</Filter>
+    </ClCompile>
+    <ClCompile Include="Program4_AllSendToMaster.cpp">
+      <Filter>Source Files\MPI\Dr.Dalia Revision</Filter>
+    </ClCompile>
+    <ClCompile Include="Program5_Ring.cpp">
+      <Filter>Source Files\MPI\Dr.Dalia Revision</Filter>
+    </ClCompile>
+    <ClCompile Include="Program6_MatrixMultiplication.cpp">
+      <Filter>Source Files\MPI\Dr.Dalia Revision</Filter>
+    </ClCompile>
+    <ClCompile Include="Program6_MatrixMultiplication_2.cpp">
+      <Filter>Source Files\MPI\Dr.Dalia Revision</Filter>
+    </ClCompile>
+    <ClCompile Include="Ali_Simulate_Broadcast_Call.cpp">
+      <Filter>Source Files\MPI\Other Codes</Filter>
+    </ClCompile>
+    <ClCompile Include="Simple HelloWorld.cpp">
+      <Filter>Source Files\OMP</Filter>
+    </ClCompile>
+    <ClCompile Include="Parallel Array Search.cpp">
+      <Filter>Source Files\OMP</Filter>
+    </ClCompile>
+    <ClCompile Include="TestingMPI.cpp">
+      <Filter>Source Files\MPI\Other Codes</Filter>
+    </ClCompile>
+    <ClCompile Include="Simulate_Broadcast_Call.cpp">
+      <Filter>Source Files\MPI\Assignments\Intro_CollectiveCommunication</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayProcessing_ParallelCode.cpp">
+      <Filter>Source Files\MPI\Assignments\Intro_CollectiveCommunication</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayProcessing_SerialCode.cpp">
+      <Filter>Source Files\MPI\Assignments\Intro_CollectiveCommunication</Filter>
+    </ClCompile>
+    <ClCompile Include="MonteCarlo_ParallelCode.cpp">
+      <Filter>Source Files\MPI\Assignments\MonteCarlo</Filter>
+    </ClCompile>
+    <ClCompile Include="MonteCarlo_SerialCode.cpp">
+      <Filter>Source Files\MPI\Assignments\MonteCarlo</Filter>
+    </ClCompile>
+    <ClCompile Include="tmp1_ArrayProcessing_ParallelCode.cpp">
+      <Filter>Source Files\MPI\Assignments\Intro_CollectiveCommunication</Filter>
+    </ClCompile>
+    <ClCompile Include="tmp2_ArrayProcessing_ParallelCode.cpp">
+      <Filter>Source Files\MPI\Assignments\Intro_CollectiveCommunication</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tvector.h">
+      <Filter>Header Files\BigInt</Filter>
+    </ClInclude>
+    <ClInclude Include="BigInt.h">
+      <Filter>Header Files\BigInt</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
