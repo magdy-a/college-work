@@ -1,0 +1,47 @@
+		Most Important
+
+SIFT Algorithm: 
+Distinctive Image Features from Scale-Invariant Keypoints
+
+		AWESOME Papers
+
+Probabilistic video stabilization kalman filtering and sosaicking
+
+Recognising Panoramas
+
+
+		New Technology, upgrades on stabiliztion but don't illustrate it
+
+Full-frame Video Stabilization
+
+Video Stabilization Using Scale-Invariant Features
+
+
+		mentioned alot
+
+Pyramidal Implementation of the Lucas Kanade Feature Tracker
+
+Space-Time Video Completion
+
+Image Inpainting
+
+The Harris Corner Detector
+
+
+		Needed Papers (Mostly the papers that we mentioned in the AWESOME Papers)
+
+		From Paper: Probabilistic video stabilization 			
+
+kalman filtering and sosaicking
+
+Real-time scene stabilization and mosaic construction
+
+Recovery of ego-motion using image stabilization
+
+Stabilization of image sequences
+
+Adaptive digital image stabilization using bit-plane matching
+
+Digital image stabilizing algorithms based on bit-plane matching
+
+Image stabilization by features tracking
