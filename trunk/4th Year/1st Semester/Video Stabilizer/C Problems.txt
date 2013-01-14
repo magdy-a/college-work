@@ -1,0 +1,10 @@
+I faced these problems in running this code,
+
+foreach problem, add the #include in the same file of problem
+
+error1: can't find back_inserter item ==> 
+sol1: #include <iterator> 
+
+error2: can't find va_start || va_end ==> sol2: #include <stdarg.h>
+
+If you couldn't find the error position, I remember that I found them, so just copy (.c) files from the included folder, and overwrite them on your project.
