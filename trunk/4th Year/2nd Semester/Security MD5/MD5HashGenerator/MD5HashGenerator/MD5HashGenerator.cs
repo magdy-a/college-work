@@ -6,23 +6,41 @@ namespace MD5HashGenerator
 {
     public partial class MD5HashGeneratorForm : Form
     {
+        #region Attributes
+
         private Point movingMouseDownLocation;
 
         MD5 md5;
+
+        #endregion
 
         public MD5HashGeneratorForm()
         {
             InitializeComponent();
 
             this.md5 = new MD5();
+
+            this.TxtPlain_TextChanged(null, null);
         }
 
-        private void BtnMD5Encrypt_Click(object sender, System.EventArgs e)
+        private void MD5_Encrypt()
         {
             this.md5.PlainText = this.txtPlain.Text;
             this.md5.Encrypt();
             this.txtMD5Hash.Text = this.md5.CipherText;
         }
+
+        private void TxtPlain_TextChanged(object sender, EventArgs e)
+        {
+            this.MD5_Encrypt();
+        }
+
+        private void BtnCopyToClipboard_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.Clipboard.SetText(this.txtMD5Hash.Text);
+        }
+
+        #region Form Events
 
         private void MD5HashGeneratorForm_MouseDown(object sender, MouseEventArgs e)
         {
@@ -53,5 +71,7 @@ namespace MD5HashGenerator
         {
             this.Close();
         }
+
+        #endregion
     }
 }
