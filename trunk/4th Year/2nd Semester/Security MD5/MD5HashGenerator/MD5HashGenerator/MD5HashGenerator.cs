@@ -10,9 +10,13 @@ namespace MD5HashGenerator
 
         private Point movingMouseDownLocation;
 
-        MD5 md5;
+        private MD5 md5;
+
+        private ToolTip tip;
 
         #endregion
+
+        #region Constructor
 
         public MD5HashGeneratorForm()
         {
@@ -20,8 +24,20 @@ namespace MD5HashGenerator
 
             this.md5 = new MD5();
 
+            this.tip = new ToolTip();
+
+            this.tip.SetToolTip(this.txtPlain, "Write text to encode");
+            this.tip.SetToolTip(this.txtMD5Hash, "Encoded MD5 Hash");
+            this.tip.SetToolTip(this.btnCopyToClipboard, "Copy MD5 Hash to the Clipboard");
+            this.tip.SetToolTip(this.btnClose, "Close");
+            this.tip.SetToolTip(this.pnlBackground, "Drag to move the window");
+
             this.TxtPlain_TextChanged(null, null);
         }
+
+        #endregion
+
+        #region Methods
 
         private void MD5_Encrypt()
         {
@@ -29,6 +45,10 @@ namespace MD5HashGenerator
             this.md5.Encrypt();
             this.txtMD5Hash.Text = this.md5.CipherText;
         }
+
+        #endregion
+
+        #region Form Events
 
         private void TxtPlain_TextChanged(object sender, EventArgs e)
         {
@@ -40,7 +60,14 @@ namespace MD5HashGenerator
             System.Windows.Forms.Clipboard.SetText(this.txtMD5Hash.Text);
         }
 
-        #region Form Events
+        private void BtnClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        #endregion
+
+        #region Style Events
 
         private void MD5HashGeneratorForm_MouseDown(object sender, MouseEventArgs e)
         {
@@ -65,11 +92,6 @@ namespace MD5HashGenerator
         private void BtnStyle_MouseLeave(object sender, EventArgs e)
         {
             ((Button)sender).FlatStyle = FlatStyle.Flat;
-        }
-
-        private void BtnClose_Click(object sender, EventArgs e)
-        {
-            this.Close();
         }
 
         #endregion

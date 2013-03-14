@@ -47,12 +47,13 @@
             // 
             // txtMD5Hash
             // 
-            this.txtMD5Hash.Enabled = false;
             this.txtMD5Hash.Font = new System.Drawing.Font("Comic Sans MS", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtMD5Hash.Location = new System.Drawing.Point(7, 32);
             this.txtMD5Hash.Name = "txtMD5Hash";
+            this.txtMD5Hash.ReadOnly = true;
             this.txtMD5Hash.Size = new System.Drawing.Size(226, 23);
             this.txtMD5Hash.TabIndex = 1;
+            this.txtMD5Hash.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // pnlBackground
             // 
@@ -78,7 +79,7 @@
             this.btnCopyToClipboard.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btnCopyToClipboard.FlatAppearance.BorderSize = 0;
             this.btnCopyToClipboard.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCopyToClipboard.Location = new System.Drawing.Point(209, 4);
+            this.btnCopyToClipboard.Location = new System.Drawing.Point(179, 4);
             this.btnCopyToClipboard.Name = "btnCopyToClipboard";
             this.btnCopyToClipboard.Size = new System.Drawing.Size(24, 23);
             this.btnCopyToClipboard.TabIndex = 2;
@@ -95,7 +96,7 @@
             this.btnClose.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btnClose.FlatAppearance.BorderSize = 0;
             this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnClose.Location = new System.Drawing.Point(179, 3);
+            this.btnClose.Location = new System.Drawing.Point(209, 4);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(24, 23);
             this.btnClose.TabIndex = 2;
