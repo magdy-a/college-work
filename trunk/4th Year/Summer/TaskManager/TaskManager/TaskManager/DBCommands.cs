@@ -28,7 +28,7 @@
                 cmd.ExecuteNonQuery();
 
                 // Get LastIdentity (current record, cause I just added it to the db), and add it to the tmpCategory object
-                newTask.ID = DBCommands.ReadTaskMaxIdentityCol();
+                newTask.ID = DBTableIdentity.ReadMaxIdentityCol(DBTables.Task.ToString());
 
                 // Add tmpCategory object to List of Tasks
                 Task.Tasks.Add(newTask);
@@ -83,7 +83,7 @@
                             Category = new Category()
                             {
                                 ID = (int)dr["CategoryID"],
-                                Name = dr["Name1"].ToString()
+                                Name = dr["CategoryName"].ToString()
                             }
                         });
                     }
@@ -163,8 +163,8 @@
 
                 Task.Tasks.Remove(Task.GetTaskByID(taskID));
 
-                DBCommands.UpdateTaskIdentitySeed();
-                DBCommands.UpdateTaskCategoryIdentitySeed();
+                DBTableIdentity.UpdateIdentitySeed(DBTables.Task.ToString());
+                DBTableIdentity.UpdateIdentitySeed(DBTables.TaskCategory.ToString());
 
                 isDeleted = true;
             }
@@ -266,6 +266,9 @@
                 // Update Task in list
                 Category.GetCategoryByID(oldCategory.ID).Name = updatedCategory.Name;
 
+                // Update Category Name in Tasks List
+                Task.Tasks.FindAll(task => task.Category.ID == oldCategory.ID).ForEach(task => task.Category.Name = updatedCategory.Name);
+
                 isUpdated = true;
             }
             catch (Exception e)
@@ -291,24 +294,30 @@
             try
             {
                 Task newTask;
+
                 foreach (Task t in Task.Tasks)
                 {
+                    // Foreach Task, if it belongs to the category to be deleted, update it to the General category
                     if (t.Category.ID == CategoryID)
                     {
                         newTask = new Task(t);
                         newTask.Category = Category.Categories[0];
+
+                        // This will update the task in the following tables (Task, TaskCategory)
                         DBCommands.UpdateTask(newTask);
                     }
                 }
 
+                // Remove the Category Record using it's ID from Category table
                 cmd = new SqlCommand("DeleteRecord", DBConnection.Conn);
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddRange(new SqlParameter[] { new SqlParameter("@Table", "Category"), new SqlParameter("IDColName", "ID"), new SqlParameter("@ID", CategoryID) });
                 cmd.ExecuteNonQuery();
 
+                // Remove the Category from the Category List
                 Category.Categories.Remove(Category.GetCategoryByID(CategoryID));
 
-                DBCommands.UpdateCategoryIdentitySeed();
+                DBTableIdentity.UpdateIdentitySeed(DBTables.Category.ToString());
 
                 isDeleted = true;
             }
@@ -318,102 +327,6 @@
             }
 
             return isDeleted;
-        }
-
-        #endregion
-
-        #region IdentityCol_Task
-
-        public static int ReadTaskMaxIdentityCol()
-        {
-            return DBTableIdentity.ReadMaxIdentityCol("Task");
-        }
-
-        public static int ReadTaskIdentitySeed()
-        {
-            return new DBTableIdentity().ReadIdentitySeed("Task");
-        }
-
-        public static bool UpdateTaskIdentitySeed()
-        {
-            bool updated = false;
-
-            DBTableIdentity ti = new DBTableIdentity();
-
-            int maxID = DBCommands.ReadTaskMaxIdentityCol();
-
-            if (DBCommands.ReadTaskIdentitySeed() != maxID)
-            {
-                DBTableIdentity.UpdateIdentitySeed("Task", maxID);
-
-                updated = true;
-            }
-
-            return updated;
-        }
-
-        #endregion
-
-        #region IdentityCol_TaskCategory
-
-        public static int ReadTaskCategoryMaxIdentityCol()
-        {
-            return DBTableIdentity.ReadMaxIdentityCol("TaskCategory");
-        }
-
-        public int ReadTaskCategoryIdentitySeed()
-        {
-            return new DBTableIdentity().ReadIdentitySeed("TaskCategory");
-        }
-
-        public static bool UpdateTaskCategoryIdentitySeed()
-        {
-            bool updated = false;
-
-            DBTableIdentity ti = new DBTableIdentity();
-
-            int maxID = DBTableIdentity.ReadMaxIdentityCol("TaskCategory");
-
-            if (ti.ReadIdentitySeed("TaskCategory") != maxID)
-            {
-                DBTableIdentity.UpdateIdentitySeed("TaskCategory", maxID);
-
-                updated = true;
-            }
-
-            return updated;
-        }
-
-        #endregion
-
-        #region IdentityCol_Category
-
-        public static int ReadCategoryMaxIdentityCol()
-        {
-            return DBTableIdentity.ReadMaxIdentityCol("Category");
-        }
-
-        public static int ReadCategoryIdentitySeed()
-        {
-            return new DBTableIdentity().ReadIdentitySeed("Category");
-        }
-
-        public static bool UpdateCategoryIdentitySeed()
-        {
-            bool updated = false;
-
-            DBTableIdentity ti = new DBTableIdentity();
-
-            int maxID = DBCommands.ReadCategoryMaxIdentityCol();
-
-            if (DBCommands.ReadCategoryIdentitySeed() != maxID)
-            {
-                DBTableIdentity.UpdateIdentitySeed("Category", maxID);
-
-                updated = true;
-            }
-
-            return updated;
         }
 
         #endregion

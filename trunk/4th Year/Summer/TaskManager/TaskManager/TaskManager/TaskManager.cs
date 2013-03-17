@@ -5,6 +5,13 @@
     using System.Drawing;
     using System.Windows.Forms;
 
+    public enum DBTables
+    {
+        Task,
+        Category,
+        TaskCategory
+    }
+
     public partial class TaskManager : Form
     {
         #region Attributes
@@ -74,7 +81,7 @@
                 return;
             }
 
-            TaskForm createTask = new TaskForm(DBCommands.ReadTaskIdentitySeed() + 1);
+            TaskForm createTask = new TaskForm(DBTableIdentity.ReadIdentitySeed(DBTables.Task.ToString()) + 1);
 
             createTask.ShowDialog();
 
@@ -159,7 +166,7 @@
                 return;
             }
 
-            CategoryForm createCategory = new CategoryForm(DBCommands.ReadCategoryIdentitySeed() + 1);
+            CategoryForm createCategory = new CategoryForm(DBTableIdentity.ReadIdentitySeed(DBTables.Category.ToString()) + 1);
 
             createCategory.ShowDialog();
 
@@ -202,6 +209,7 @@
                     }
 
                     this.UpdateCategoriesListView();
+                    this.UpdateTasksListView();
                 }
             }
         }
