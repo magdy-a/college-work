@@ -49,23 +49,26 @@ namespace TaskManager
             if (txtName.Text == string.Empty)
             {
                 MessageBox.Show("Please Enter Category Name", "Name Not Valid!");
+                successful = false;
             }
-
-            this.newCategory = new Category()
+            else
             {
-                ID = int.Parse(this.txtID.Text),
-                Name = this.txtName.Text
-            };
-
-            for (int i = 1; i <= Category.Categories.Count; i++)
-            {
-                if (i != this.newCategory.ID && this.newCategory.Name.ToLower().Equals(Category.Categories[i - 1].Name.ToLower()))
+                this.newCategory = new Category()
                 {
-                    successful = false;
+                    ID = int.Parse(this.txtID.Text),
+                    Name = this.txtName.Text
+                };
 
-                    MessageBox.Show(Category.GetCategoryByID(i).ToString() + "Have the same letters", "Name not Valid!");
+                for (int i = 1; i <= Category.Categories.Count; i++)
+                {
+                    if (i != this.newCategory.ID && this.newCategory.Name.ToLower().Equals(Category.Categories[i - 1].Name.ToLower()))
+                    {
+                        successful = false;
 
-                    break;
+                        MessageBox.Show(Category.GetCategoryByID(i).ToString() + "Have the same letters", "Name not Valid!");
+
+                        break;
+                    }
                 }
             }
 

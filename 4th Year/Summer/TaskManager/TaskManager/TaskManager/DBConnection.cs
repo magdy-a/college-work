@@ -52,7 +52,11 @@
         {
             isOpen = true;
 
-            connectionString = ConfigurationManager.ConnectionStrings["ConnectionString1"].ConnectionString;
+            AppSettingsReader appSettings = new AppSettingsReader();
+            AppSettingsSection sec = new AppSettingsSection();
+            connectionString = ConfigurationManager.AppSettings["strConnectionString"];
+            //connectionString = ConfigurationManager.ConnectionStrings["ConnectionString1"].ConnectionString;
+
             conn = new SqlConnection(connectionString);
 
             try
@@ -73,7 +77,8 @@
             {
                 isOpen = true;
 
-                connectionString = ConfigurationManager.ConnectionStrings["ConnectionString2"].ConnectionString;
+                connectionString = ConfigurationManager.AppSettings["strConnectionString"];
+                //connectionString = ConfigurationManager.ConnectionStrings["ConnectionString1"].ConnectionString;
                 conn = new SqlConnection(connectionString);
 
                 try
