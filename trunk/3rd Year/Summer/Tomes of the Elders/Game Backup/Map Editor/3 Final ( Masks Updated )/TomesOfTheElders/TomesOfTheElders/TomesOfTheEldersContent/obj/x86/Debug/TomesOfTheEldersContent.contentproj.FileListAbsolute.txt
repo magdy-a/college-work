@@ -1,2 +1,0 @@
-c:\users\zoom\documents\visual studio 2010\Projects\TomesOfTheElders\TomesOfTheElders\TomesOfTheEldersContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Ahmad\Collection\Learning\Visual Studio\XNA\BackUp Our Game\3 Final ( Masks Updated )\TomesOfTheElders\TomesOfTheElders\TomesOfTheEldersContent\obj\x86\Debug\ResolveAssemblyReference.cache
