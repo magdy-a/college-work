@@ -1,9 +1,0 @@
-C:\Users\Goha\Documents\Visual Studio 2008\Projects\FileProject_2.2\FileProject_2.2\bin\Debug\FileProject_2.2.exe
-C:\Users\Goha\Documents\Visual Studio 2008\Projects\FileProject_2.2\FileProject_2.2\bin\Debug\FileProject_2.2.pdb
-C:\Users\Goha\Documents\Visual Studio 2008\Projects\FileProject_2.2\FileProject_2.2\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Goha\Documents\Visual Studio 2008\Projects\FileProject_2.2\FileProject_2.2\obj\Debug\FileProject_2.2.exe
-C:\Users\Goha\Documents\Visual Studio 2008\Projects\FileProject_2.2\FileProject_2.2\obj\Debug\FileProject_2.2.pdb
-D:\Ahmed\College\Second Year _ Second Semester\File Organization\Assignment\Last Edition\FileProject_2.2\FileProject_2.2\obj\Debug\FileProject_2.2.exe
-D:\Ahmed\College\Second Year _ Second Semester\File Organization\Assignment\Last Edition\FileProject_2.2\FileProject_2.2\obj\Debug\FileProject_2.2.pdb
-E:\Ahmed\Collection\Programing\MyWork\FileOrganization Project\Last Edition\FileProject_2.2\FileProject_2.2\obj\Debug\FileProject_2.2.exe
-E:\Ahmed\Collection\Programing\MyWork\FileOrganization Project\Last Edition\FileProject_2.2\FileProject_2.2\obj\Debug\FileProject_2.2.pdb
